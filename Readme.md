@@ -7,8 +7,9 @@ This repository contains the solutions for various questions from online competi
 
 Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<path_to_question_folder>)
 
-|  Sno  |  Question Title  |
-| 1 | [Game Of Names](/q1_game_of_names) | `Incomplete`
+|  Sno  |  Question Title  | Status |
+| ----- | ---------------- | ------ |
+| 1 | [Game Of Names](/q1_game_of_names) | `Incomplete` |
 | 2 | [Infix to Postfix Expression Conversion](/q2_infix_to_postfix) |
 | 3 | [Maximum Coin Sum](/q3_maximum_coin_sum) |
 | 4 | [Postfix Evaluvation](/q4_postfix_evaluvation) |
