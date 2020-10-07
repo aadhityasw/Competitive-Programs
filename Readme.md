@@ -13,7 +13,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 2 | [Infix to Postfix Expression Conversion](/q2_infix_to_postfix) |
 | 3 | [Maximum Coin Sum](/q3_maximum_coin_sum) |
 | 4 | [Postfix Evaluvation](/q4_postfix_evaluvation) |
-| 5 | [Premimum Game](/q5_premimum_game) | `Incomplete` |
+| 5 | [Premium Game](/q5_premium_game) | `Incomplete` |
 | 6 | [Roadies](/q6_roadies) |
 | 7 | [Self Adjusting List](/q7_self_adjusting_list) |
 | 8 | [Sequence of Sequence](/q8_sequence_of_sequence) |
@@ -29,3 +29,31 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 18 | [Allocation](/q18_allocation) |
 | 19 | [Lost Guy Radhu](/q19_lost_guy_radhu) |
 | 20 | [COVID Pandemic and Long Queue](/q20_covid_pandemic_and_long_queue) |
+| 21 | [Triple Sort](/q21_triple_sort) |
+| 22 | [Prison Labor Dodgers](/q22_prison_labor_dodgers) |
+| 23 | [Don't Get Volunteered](/q23_dont_get_volunteered) |
+| 24 | [En Route Salute](/q24_en_route_salute) |
+| 25 | [Fuel Injection Perfection](/q25_fuel_injection_perfection) |
+| 26 | [Find the Access Codes](/q26_find_access_codes) |
+| 27 | [Doomsday Fuel](/q27_doomsday_fuel) | `Needs another Look` |
+| 28 | [Chef and Price Control](/q28_chef_and_price_control) |
+| 29 | [Chef and String](/q29_chef_and_string) |
+| 30 | [Chef and Icecream](/q30_chef_and_icecream) |
+| 31 | [The Tom and Jerry Game!](/q31_tom_and_jerry_game) |
+| 32 | [Even Matrix](/q32_even_matrix) |
+| 33 | [](/q33) |
+| 34 | [](/q34) |
+| 35 | [](/q35) |
+| 36 | [](/q36) |
+| 37 | [](/q37) |
+| 38 | [](/q38) |
+| 39 | [](/q39) |
+| 40 | [](/q40) |
+
+
+
+
+
+
+# Important Note :
+This is purely for educational purposes only, copying these programs to execute them in their respective portals are strongly not advised. Please use this just for reference in case you are stuck. If you are indeed copying any materials, then you are doing so in your own risk :).
