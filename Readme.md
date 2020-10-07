@@ -22,8 +22,8 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 11 | [Training](/q11_training) |
 | 12 | [Minimum Sum in Two Arrays](/q12_minimum_sum_two_array) |
 | 13 | [Hard Cash](/q13_hard_cash) |
-| 14 | [Chef Rail](/q14_chef_rail) |
-| 15 | [Slab](/q15_slab) |
+| 14 | [Chef and Railway Stations](/q14_chef_rail) |
+| 15 | [Tax Slabs](/q15_tax_slabs) |
 | 16 | [ATM (HS08TEST)](/q16_atm_test) |
 | 17 | [Pintu and Fruits](/q17_pintu_and_fruits) |
 | 18 | [Allocation](/q18_allocation) |
@@ -41,14 +41,23 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 30 | [Chef and Icecream](/q30_chef_and_icecream) |
 | 31 | [The Tom and Jerry Game!](/q31_tom_and_jerry_game) |
 | 32 | [Even Matrix](/q32_even_matrix) |
-| 33 | [](/q33) |
-| 34 | [](/q34) |
-| 35 | [](/q35) |
-| 36 | [](/q36) |
-| 37 | [](/q37) |
-| 38 | [](/q38) |
-| 39 | [](/q39) |
-| 40 | [](/q40) |
+| 33 | [Bytelandian gold coins](/q33_bytelandian_gold_coins) |
+| 34 | [Marbles](/q34_marbles) |
+| 35 | [Chef and Demonetisation](/q35_chef_and_demonetization) |
+| 36 | [Number of Groups](/q36_number_of_groups) |
+| 37 | [Increasing Decreasing ](/q37_increasing_decreasing) |
+| 38 | [Chef and Strings](/q38_chef_and_strings) |
+| 39 | [Chef and Card Game](/q39_chef_and_card_game) |
+| 40 | [Ada King](/q40_ada_king) |
+| 41 | [Missing a Point](/q41_missing_point) |
+| 42 | [Chefina and Swaps](/q42_chefina_swaps) |
+| 43 | [Doctor Chef](/q43_doctor_chef) |
+| 44 | [Swayamvar](/q44_swayamvar) |
+| 45 | [Digit Pairs](/q45_digit_pairs) |
+| 46 | [](/q46) |
+| 47 | [](/q47) |
+| 48 | [](/q48) |
+| 49 | [](/q49) |
 
 
 

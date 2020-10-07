@@ -1,6 +1,7 @@
 # Codechef - TRPLSRT
 # https://www.codechef.com/problems/TRPLSRT
 
+
 def findnextpos(arr, pos) :
     # Finds the next number that is out of order from position pos and to its right.
     """print(arr, pos)"""
