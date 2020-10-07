@@ -20,3 +20,12 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 9 | [String Permutation](/q9_string_permutation) |
 | 10 | [Togetherness as a Family](/q10_togetherness_as_a_family) |
 | 11 | [Training](/q11_training) |
+| 12 | [Minimum Sum in Two Arrays](/q12_minimum_sum_two_array) |
+| 13 | [Hard Cash](/q13_hard_cash) |
+| 14 | [Chef Rail](/q14_chef_rail) |
+| 15 | [Slab](/q15_slab) |
+| 16 | [ATM (HS08TEST)](/q16_atm_test) |
+| 17 | [Pintu and Fruits](/q17_pintu_and_fruits) |
+| 18 | [Allocation](/q18_allocation) |
+| 19 | [Lost Guy Radhu](/q19_lost_guy_radhu) |
+| 20 | [COVID Pandemic and Long Queue](/q20_covid_pandemic_and_long_queue) |
