@@ -54,12 +54,30 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 43 | [Doctor Chef](/q43_doctor_chef) |
 | 44 | [Swayamvar](/q44_swayamvar) |
 | 45 | [Digit Pairs](/q45_digit_pairs) |
-| 46 | [](/q46) |
-| 47 | [](/q47) |
-| 48 | [](/q48) |
-| 49 | [](/q49) |
-
-
+| 46 | [Sell All the Cars](/q46_sell_all_cars) |
+| 47 | [Strange Number](/q47_strange_number) |
+| 48 | [Unit GCD ](/q48_unit_gcd) | `Incomplete`|
+| 49 | [Squared Subsequences](/q49_squared_subsequences) | `Incomplete` |
+| 50 | [Vestigium](/q50_vestigium) |
+| 51 | [Nesting Depths](/q51_nesting_depths) |
+| 52 | [Parenting Partnering Returns](/q52_parenting_partnering_results) |
+| 53 | [Coronavirus Spread](/q53_coronavirus_spread) |
+| 54 | [Isolation Centers](/q54_isolation_centers) |
+| 55 | [Chef and Bitwise Product](/q55_chef_bitwise_product) | `Incomplete` |
+| 56 | [Sorting Vases](/q56_sorting_vases) | `Incomplete` |
+| 57 | [Ways Of Coloring](/q57_ways_of_coloring) | `Incomplete` |
+| 58 | [Necklace Problem](/q58_necklace_problem) | `Incomplete` |
+| 59 | [Bheem and Permutation](/q59_bheem_and_permutation) | `Incomplete` |
+| 60 | [Bob Hates XORs](/q60_bob_hates_xors) | `Incomplete` |
+| 61 | [Indumanti and Fraction](/q61_indumanti_and_fraction) | `Incomplete` |
+| 62 | [City and Concert](/q62_city_and_concert) | `Incomplete` |
+| 63 | [](/q63) |
+| 64 | [](/q64) |
+| 65 | [](/q65) |
+| 66 | [](/q66) |
+| 67 | [](/q67) |
+| 68 | [](/q68) |
+| 69 | [](/q69) |
 
 
 
