@@ -7,8 +7,8 @@ This repository contains the solutions for various questions from online competi
 
 Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<path_to_question_folder>)
 
-|  Sno  |  Question Title  | Status |
-| ----- | ---------------- | ------ |
+|  Sno  |  Question Title  | Status | Key Points |
+| ----- | ---------------- | ------ | ---------- |
 | 1 | [Game Of Names](/q1_game_of_names) | `Incomplete` |
 | 2 | [Infix to Postfix Expression Conversion](/q2_infix_to_postfix) |
 | 3 | [Maximum Coin Sum](/q3_maximum_coin_sum) |
@@ -71,15 +71,24 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 60 | [Bob Hates XORs](/q60_bob_hates_xors) | `Incomplete` |
 | 61 | [Indumanti and Fraction](/q61_indumanti_and_fraction) | `Incomplete` |
 | 62 | [City and Concert](/q62_city_and_concert) | `Incomplete` |
-| 63 | [](/q63) |
-| 64 | [](/q64) |
-| 65 | [](/q65) |
-| 66 | [](/q66) |
-| 67 | [](/q67) |
-| 68 | [](/q68) |
-| 69 | [](/q69) |
-
-
+| 63 | [Two Sum](/q63_two_sum) |
+| 64 | [Add Two Numbers](/q64_add_two_numbers) |
+| 65 | [Longest Substring Without Repeating Characters](/q65_longest_substring_without_repeating_characters) |
+| 66 | [Median of Two Sorted Arrays](/q66_median_sorted_array) | | `Important` |
+| 67 | [Reverse Integer](/q67_reverse_integer) |
+| 68 | [Longest Palindromic Substring](/q68_longest_palindromic_substring) | | `Manacher's Algorithm` |
+| 69 | [Palindrome Number](/q69_palindrome_number) |
+| 70 | [ZigZag Conversion](/q70_zigzag_convention) |
+| 71 | [](/q71) |
+| 72 | [](/q72) |
+| 73 | [](/q73) |
+| 74 | [](/q74) |
+| 75 | [](/q75) |
+| 76 | [](/q76) |
+| 77 | [](/q77) |
+| 78 | [](/q78) |
+| 79 | [](/q79) |
+| 8 | [](/q8) |
 
 
 # Important Note :
