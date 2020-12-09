@@ -79,16 +79,27 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 68 | [Longest Palindromic Substring](/q68_longest_palindromic_substring) | | `Manacher's Algorithm` |
 | 69 | [Palindrome Number](/q69_palindrome_number) |
 | 70 | [ZigZag Conversion](/q70_zigzag_convention) |
-| 71 | [](/q71) |
-| 72 | [](/q72) |
-| 73 | [](/q73) |
-| 74 | [](/q74) |
-| 75 | [](/q75) |
-| 76 | [](/q76) |
-| 77 | [](/q77) |
+| 71 | [String to Integer](/q71_string_to_integer) |
+| 72 | [Container With Most Water](/q72_container_with_most_water) | | `Standard Problem` |
+| 73 | [Regular Expression Matching](/q73_regular_expression_matching) | | `Regex Matching Using DP` |
+| 74 | [Kadane's Algorithm](/q74_kandanes) |  | `Kadane's Algorithm` |
+| 75 | [Delete without head pointer](/q75_delete_without_head) |
+| 76 | [Strongly Connected Components](/q76_strongly_connected_components) | | `Kosaraju's Algorithm` |
+| 77 | [LRU Cache](/q77_lru_cache) | | `LRU Cache` |
 | 78 | [](/q78) |
 | 79 | [](/q79) |
-| 8 | [](/q8) |
+| 80 | [](/q80) |
+| 81 | [](/q81) |
+| 82 | [](/q82) |
+| 83 | [](/q83) |
+| 84 | [](/q84) |
+| 85 | [](/q85) |
+| 86 | [](/q86) |
+| 87 | [](/q87) |
+| 88 | [](/q88) |
+| 89 | [](/q89) |
+| 90 | [](/q90) |
+| 9 | [](/q9) |
 
 
 # Important Note :
