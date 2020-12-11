@@ -86,11 +86,11 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 75 | [Delete without head pointer](/q75_delete_without_head) |
 | 76 | [Strongly Connected Components](/q76_strongly_connected_components) | | `Kosaraju's Algorithm` |
 | 77 | [LRU Cache](/q77_lru_cache) | | `LRU Cache` |
-| 78 | [](/q78) |
-| 79 | [](/q79) |
-| 80 | [](/q80) |
-| 81 | [](/q81) |
-| 82 | [](/q82) |
+| 78 | [Kth largest element in a stream](/q78_kth_largest_stream) |
+| 79 | [Subarray with given sum](/q79_subarray_with_given_sum) |
+| 80 | [Count the triplets](/q80_count_triplets) |
+| 81 | [Missing number in array ](/q81_missing_number_array) | | `XOR Manipulation of stream of numbers` |
+| 82 | [Merge Without Extra Space](/q82_merge_without_extra_space) | | `Using Gaps to merge two sorted arrays` |
 | 83 | [](/q83) |
 | 84 | [](/q84) |
 | 85 | [](/q85) |
@@ -99,7 +99,16 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 88 | [](/q88) |
 | 89 | [](/q89) |
 | 90 | [](/q90) |
-| 9 | [](/q9) |
+| 91 | [](/q91) |
+| 92 | [](/q92) |
+| 93 | [](/q93) |
+| 94 | [](/q94) |
+| 95 | [](/q95) |
+| 96 | [](/q96) |
+| 97 | [](/q97) |
+| 98 | [](/q98) |
+| 99 | [](/q99) |
+| 10 | [](/q10) |
 
 
 # Important Note :
