@@ -91,14 +91,14 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 80 | [Count the triplets](/q80_count_triplets) |
 | 81 | [Missing number in array ](/q81_missing_number_array) | | `XOR Manipulation of stream of numbers` |
 | 82 | [Merge Without Extra Space](/q82_merge_without_extra_space) | | `Using Gaps to merge two sorted arrays` |
-| 83 | [](/q83) |
-| 84 | [](/q84) |
-| 85 | [](/q85) |
-| 86 | [](/q86) |
-| 87 | [](/q87) |
-| 88 | [](/q88) |
-| 89 | [](/q89) |
-| 90 | [](/q90) |
+| 83 | [Rearrange Array Alternately](/q83_rearrange_array_alternately) | | `Encoding numbers using modulus` |
+| 84 | [Number of pairs](/q84_number_pairs) | | `Python's bisect library` |
+| 85 | [Reverse words in a given string](/q85_reverse_words) |
+| 86 | [Parenthesis Matching](/q86_paranthesis_matching) |
+| 87 | [Inversion of array](/q87_inversion_array) | | `Merge Sort` |
+| 88 | [Recursively remove all adjacent duplicates](/q88_remove_adjascent_letters) |
+| 89 | [Check if string is rotated by two places](/q89_string_rotation_check) |
+| 90 | [Roman Number to Integer](/q90_roman_to_integer) | | ` Roman number to integer conversion` |
 | 91 | [](/q91) |
 | 92 | [](/q92) |
 | 93 | [](/q93) |
@@ -108,7 +108,9 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 97 | [](/q97) |
 | 98 | [](/q98) |
 | 99 | [](/q99) |
-| 10 | [](/q10) |
+| 100 | [](/q100) |
+
+
 
 
 # Important Note :
