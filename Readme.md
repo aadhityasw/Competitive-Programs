@@ -99,12 +99,12 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 88 | [Recursively remove all adjacent duplicates](/q88_remove_adjascent_letters) |
 | 89 | [Check if string is rotated by two places](/q89_string_rotation_check) |
 | 90 | [Roman Number to Integer](/q90_roman_to_integer) | | ` Roman number to integer conversion` |
-| 91 | [](/q91) |
-| 92 | [](/q92) |
-| 93 | [](/q93) |
-| 94 | [](/q94) |
-| 95 | [](/q95) |
-| 96 | [](/q96) |
+| 91 | [Finding middle element in a linked list](/q91_linked_list_middle_element) | | `2 pointers Linked List traversal` |
+| 92 | [Match a Substring to String](/q92_match_substring) |
+| 93 | [Logical Understanding](/q93_logical_understanding) |
+| 94 | [Programming Convolution](/q94_programming_convolution) | | `Image Convolutions` |
+| 95 | [Programming Padding](/q95_programming_padding) | | `Image Padding` |
+| 96 | [Square arrays](/q96_square_arrays) |
 | 97 | [](/q97) |
 | 98 | [](/q98) |
 | 99 | [](/q99) |
