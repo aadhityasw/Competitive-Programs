@@ -111,11 +111,11 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 100 | [Minimum Platforms](/q100_minimum_platforms) | | `Job Scheduling` | 
 | 101 | [Remove Duplicates](/q101_remove_duplicates) |
 | 102 | [Leaders in an array](/q102_array_leaders) | | `Time Difference in Array Appending and addition of arrays` |
-| 103 | [](/q103) |
-| 104 | [](/q104) |
-| 105 | [](/q105) |
-| 106 | [](/q106) |
-| 107 | [](/q107) |
+| 103 | [Reverse array in groups](/q103_reverse_array_in_groups) |
+| 104 | [Form a palindrome](/q104_form_palindrome) | | `Longest Palindromic Subsequence` |
+| 105 | [Longest Distinct characters in string](/q105_longest_distinct_substring) |
+| 106 | [Longest Common Prefix in an Array](/q106_longest_common_prefix) |
+| 107 | [Trapping Rain Water](/q107_trapping_water) | | `Trapping Water Problem` |
 | 108 | [](/q108) |
 | 109 | [](/q109) |
 | 110 | [](/q110) |
@@ -128,9 +128,29 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 117 | [](/q117) |
 | 118 | [](/q118) |
 | 119 | [](/q119) |
-| 12 | [](/q12) |
-
-
+| 120 | [](/q120) |
+| 121 | [](/q121) |
+| 122 | [](/q122) |
+| 123 | [](/q123) |
+| 124 | [](/q124) |
+| 125 | [](/q125) |
+| 126 | [](/q126) |
+| 127 | [](/q127) |
+| 128 | [](/q128) |
+| 129 | [](/q129) |
+| 130 | [](/q130) |
+| 131 | [](/q131) |
+| 132 | [](/q132) |
+| 133 | [](/q133) |
+| 134 | [](/q134) |
+| 135 | [](/q135) |
+| 136 | [](/q136) |
+| 137 | [](/q137) |
+| 138 | [](/q138) |
+| 139 | [](/q139) |
+| 140 | [](/q140) |
+| 141 | [](/q141) |
+| 14 | [](/q14) |
 
 
 # Important Note :
