@@ -116,11 +116,11 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 105 | [Longest Distinct characters in string](/q105_longest_distinct_substring) |
 | 106 | [Longest Common Prefix in an Array](/q106_longest_common_prefix) |
 | 107 | [Trapping Rain Water](/q107_trapping_water) | | `Trapping Water Problem` |
-| 108 | [](/q108) |
-| 109 | [](/q109) |
-| 110 | [](/q110) |
-| 111 | [](/q111) |
-| 112 | [](/q112) |
+| 108 | [Chocolate Distribution Problem](/q108_chocolate_distribution) |
+| 109 | [Stock buy and sell](/q109_stock_buy_sell) |
+| 110 | [Element with left side smaller and right side greater](/q110_element_small_left_big_right) |
+| 111 | [Convert array into Zig-Zag fashion](/q111_zig_zag_numerically) |
+| 112 | [Spirally traversing a matrix](/q112_matrix_spiral_traversal) |
 | 113 | [](/q113) |
 | 114 | [](/q114) |
 | 115 | [](/q115) |
