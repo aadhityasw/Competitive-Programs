@@ -121,10 +121,10 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 110 | [Element with left side smaller and right side greater](/q110_element_small_left_big_right) |
 | 111 | [Convert array into Zig-Zag fashion](/q111_zig_zag_numerically) |
 | 112 | [Spirally traversing a matrix](/q112_matrix_spiral_traversal) |
-| 113 | [](/q113) |
-| 114 | [](/q114) |
-| 115 | [](/q115) |
-| 116 | [](/q116) |
+| 113 | [Largest Number formed from an Array](/q113_largest_number_formed_array) | | `Merge Sort` |
+| 114 | [Rotate a Linked List](/q114_rotate_linked_list) |
+| 115 | [Reverse a Linked List in groups of given size](/q115_reverse_linked_list_in_groups) |
+| 116 | [Intersection Point in Y Shapped Linked Lists](/q116_linked_list_intersection) | | `Intersection Point of two Linked Lists` |
 | 117 | [](/q117) |
 | 118 | [](/q118) |
 | 119 | [](/q119) |
