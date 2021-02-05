@@ -125,10 +125,10 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 114 | [Rotate a Linked List](/q114_rotate_linked_list) |
 | 115 | [Reverse a Linked List in groups of given size](/q115_reverse_linked_list_in_groups) |
 | 116 | [Intersection Point in Y Shapped Linked Lists](/q116_linked_list_intersection) | | `Intersection Point of two Linked Lists` |
-| 117 | [](/q117) |
-| 118 | [](/q118) |
-| 119 | [](/q119) |
-| 120 | [](/q120) |
+| 117 | [Detect Loop in linked list](/q117_linked_list_loop) | | `Floyd's Loop Detection` |
+| 118 | [Remove loop in Linked List](/q118_linked_list_loop_removal) | | `Linked-list Loop Detection` |
+| 119 | [Nth node from end of linked list](/q119_nth_node_from_end) |
+| 120 | [Flattening a Linked List ](/q120_flatten_linked_list) | `Incomplete` |
 | 121 | [](/q121) |
 | 122 | [](/q122) |
 | 123 | [](/q123) |
