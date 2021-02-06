@@ -128,12 +128,12 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 117 | [Detect Loop in linked list](/q117_linked_list_loop) | | `Floyd's Loop Detection` |
 | 118 | [Remove loop in Linked List](/q118_linked_list_loop_removal) | | `Linked-list Loop Detection` |
 | 119 | [Nth node from end of linked list](/q119_nth_node_from_end) |
-| 120 | [Flattening a Linked List ](/q120_flatten_linked_list) | `Incomplete` |
-| 121 | [](/q121) |
-| 122 | [](/q122) |
-| 123 | [](/q123) |
-| 124 | [](/q124) |
-| 125 | [](/q125) |
+| 120 | [Flattening a Linked List ](/q120_flatten_linked_list) |
+| 121 | [Merge two sorted linked lists](/q121_merge_sorted_linked_list) |
+| 122 | [Add two numbers represented by linked lists](/q122_linked_list_number_addition) |
+| 123 | [Check if Linked List is Palindrome](/q123_palindrome_linked_list) |
+| 124 | [Implement Queue using Linked List](/q124_queue_using_linked_list) |
+| 125 | [Implement Stack using Linked List](/q125_stack_using_linked_list) |
 | 126 | [](/q126) |
 | 127 | [](/q127) |
 | 128 | [](/q128) |
