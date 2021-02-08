@@ -4,6 +4,8 @@ RUN apt update
 
 RUN apt -y upgrade
 
+RUN apt-get install git
+
 RUN apt install -y default-jre
 
 RUN apt install -y default-jdk
