@@ -134,13 +134,13 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 123 | [Check if Linked List is Palindrome](/q123_palindrome_linked_list) |
 | 124 | [Implement Queue using Linked List](/q124_queue_using_linked_list) |
 | 125 | [Implement Stack using Linked List](/q125_stack_using_linked_list) |
-| 126 | [](/q126) |
-| 127 | [](/q127) |
-| 128 | [](/q128) |
-| 129 | [](/q129) |
-| 130 | [](/q130) |
-| 131 | [](/q131) |
-| 132 | [](/q132) |
+| 126 | [Next Greater Element](/q126_next_greater_element) |
+| 127 | [Queue using two Stacks](/q127_queue_using_stack) |
+| 128 | [Stack using two queues](/q128_stack_using_queue) |
+| 129 | [Get minimum element from stack](/q129_minimum_number_stack) | | `Encoding - Decoding` |
+| 130 | [Circular tour](/q130_circular_tour) | | `Circular Tour Petrol Pumps` |
+| 131 | [First non-repeating character in a stream](/q131_first_non_repeating_character_stream) |
+| 132 | [Rotten Oranges](/q132_rotten_oranges) |
 | 133 | [](/q133) |
 | 134 | [](/q134) |
 | 135 | [](/q135) |
