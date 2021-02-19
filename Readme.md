@@ -2,6 +2,10 @@
 
 This repository contains the solutions for various questions from online competitive programming portals. 
 
+### Setup and Contribution
+
+Refer to the [Contributing](Contributing.md) file reguarding this.
+
 
 ### List of Questions
 
@@ -141,12 +145,12 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 130 | [Circular tour](/q130_circular_tour) | | `Circular Tour Petrol Pumps` |
 | 131 | [First non-repeating character in a stream](/q131_first_non_repeating_character_stream) |
 | 132 | [Rotten Oranges](/q132_rotten_oranges) |
-| 133 | [](/q133) |
-| 134 | [](/q134) |
-| 135 | [](/q135) |
-| 136 | [](/q136) |
-| 137 | [](/q137) |
-| 138 | [](/q138) |
+| 133 | [Left View of Binary Tree](/q133_left_view_binary_tree) |
+| 134 | [Maximum of all subarrays of size k](/q134_maximum_stream_subarray) | | `Dequeue` |
+| 135 | [PCM Dilemma](/q135_pcm_dilemma) |
+| 136 | [Memcached Service](/q136_memcached_service) |
+| 137 | [Chef and Laddus For Children](/q137_chef_laddus_children) |
+| 138 | [Students, heights and their IQs](/q138_HEIGHTIQ) | `Incomplete` |
 | 139 | [](/q139) |
 | 140 | [](/q140) |
 | 141 | [](/q141) |
