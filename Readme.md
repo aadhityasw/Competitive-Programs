@@ -151,10 +151,28 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 | 136 | [Memcached Service](/q136_memcached_service) |
 | 137 | [Chef and Laddus For Children](/q137_chef_laddus_children) |
 | 138 | [Students, heights and their IQs](/q138_HEIGHTIQ) | `Incomplete` |
-| 139 | [](/q139) |
-| 140 | [](/q140) |
-| 141 | [](/q141) |
-| 14 | [](/q14) |
+| 139 | [Check for BST](/q139_bst_verification) |
+| 140 | [Bottom View of Binary Tree](/q140_bottom_binary_tree) |
+| 141 | [Vertical Traversal of Binary Tree](/q141_vertical_traversal_binary_tree) |
+| 142 | [Level order traversal in spiral form ](/q142_binary_tree_spiral_level_order) |
+| 143 | [Connect Nodes at Same Level](/q143_binary_tree_connect_level_nodes) |
+| 144 | [](/q144) |
+| 145 | [](/q145) |
+| 146 | [](/q146) |
+| 147 | [](/q147) |
+| 148 | [](/q148) |
+| 149 | [](/q149) |
+| 150 | [](/q150) |
+| 151 | [](/q151) |
+| 152 | [](/q152) |
+| 153 | [](/q153) |
+| 154 | [](/q154) |
+| 155 | [](/q155) |
+| 156 | [](/q156) |
+| 157 | [](/q157) |
+| 158 | [](/q158) |
+| 159 | [](/q159) |
+| 16 | [](/q16) |
 
 
 # Important Note :
