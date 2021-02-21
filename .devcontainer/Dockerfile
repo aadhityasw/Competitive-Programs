@@ -4,7 +4,9 @@ RUN apt update
 
 RUN apt -y upgrade
 
-RUN apt-get install git
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get install -y git
 
 RUN apt install -y default-jre
 
