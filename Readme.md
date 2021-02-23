@@ -4,7 +4,7 @@ This repository contains the solutions for various questions from online competi
 
 ### Setup and Contribution
 
-Refer to the [Contributing](Contributing.md) file reguarding this.
+Refer to the [Contributing](Contributing.md) file regarding this.
 
 
 ### List of Questions
