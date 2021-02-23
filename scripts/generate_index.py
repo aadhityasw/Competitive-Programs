@@ -10,7 +10,7 @@ def generate(start, end, file_name) :
     formatted_indices = ""
 
     for i in range(start, end+1) :
-        formatted_indices += f"| {i} | [](/q{i}) |\n"
+        formatted_indices += f"| {i} | [](./q{i}) |\n"
 
     with open(file_name, 'w') as file :
         file.write(formatted_indices)
