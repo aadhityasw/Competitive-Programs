@@ -4,7 +4,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](/<
 
 |  Sno  |  Question Title  | Status | Key Points |
 | ----- | ---------------- | ------ | ---------- |
-| 1 | [Game Of Names](/q1_game_of_names) | `Incomplete` |
+| 1 | [Game Of Names](./q1_game_of_names) | `Incomplete` |
 | 2 | [Infix to Postfix Expression Conversion](/q2_infix_to_postfix) |
 | 3 | [Maximum Coin Sum](/q3_maximum_coin_sum) |
 | 4 | [Postfix Evaluvation](/q4_postfix_evaluvation) |
