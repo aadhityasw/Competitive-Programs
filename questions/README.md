@@ -152,10 +152,10 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 146 | [Symmetric Tree](./q146_symmetric_binary_tree) |
 | 147 | [Height of Binary Tree](./q147_binary_tree_height) |
 | 148 | [Maximum Path Sum between 2 Leaf Nodes](./q148_maximum_path_sum_leaf_nodes) |
-| 149 | [](./q149) |
-| 150 | [](./q150) |
-| 151 | [](./q151) |
-| 152 | [](./q152) |
+| 149 | [Diameter of Binary Tree](./q149_diameter_binary_tree) |
+| 150 | [Check for Balanced Tree](./q150_check_balanced_binary_tree) |
+| 151 | [Serialize and Deserialize a Binary Tree](./q151_binary_tree_serialization) |
+| 152 | [Find median in a stream](./q152_median_stream) | | `Heap with Streams` |
 | 153 | [](./q153) |
 | 154 | [](./q154) |
 | 155 | [](./q155) |
