@@ -156,10 +156,10 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 150 | [Check for Balanced Tree](./q150_check_balanced_binary_tree) |
 | 151 | [Serialize and Deserialize a Binary Tree](./q151_binary_tree_serialization) |
 | 152 | [Find median in a stream](./q152_median_stream) | | `Heap with Streams` |
-| 153 | [](./q153) |
-| 154 | [](./q154) |
-| 155 | [](./q155) |
-| 156 | [](./q156) |
+| 153 | [Heap Sort](./q153_heap_sort) | | `Heap Sort` |
+| 154 | [Binary Heap Operations](./q154_binary_heap) |
+| 155 | [Rearrange characters](./q155_rearrange_characters_heap) |
+| 156 | [Merge K sorted linked lists](./q156_merge_k_sorted_linked_list) |
 | 157 | [](./q157) |
 | 158 | [](./q158) |
 | 159 | [](./q159) |
