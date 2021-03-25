@@ -158,10 +158,10 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 152 | [Find median in a stream](./q152_median_stream) | | `Heap with Streams` |
 | 153 | [Heap Sort](./q153_heap_sort) | | `Heap Sort` |
 | 154 | [Binary Heap Operations](./q154_binary_heap) |
-| 155 | [Rearrange characters](./q155_rearrange_characters_heap) |
+| 155 | [Rearrange characters](./q155_rearrange_characters_heap) | | `Heapq library with custom predicate` |
 | 156 | [Merge K sorted linked lists](./q156_merge_k_sorted_linked_list) |
-| 157 | [](./q157) |
-| 158 | [](./q158) |
+| 157 | [Flood fill Algorithm](./q157_flood_fill) |
+| 158 | [Number of paths](./q158_number_paths) | | `math` |
 | 159 | [](./q159) |
 | 160 | [](./q160) |
 | 161 | [](./q161) |
