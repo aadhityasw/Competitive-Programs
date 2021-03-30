@@ -162,12 +162,12 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 156 | [Merge K sorted linked lists](./q156_merge_k_sorted_linked_list) |
 | 157 | [Flood fill Algorithm](./q157_flood_fill) |
 | 158 | [Number of paths](./q158_number_paths) | | `math` |
-| 159 | [](./q159) |
-| 160 | [](./q160) |
-| 161 | [](./q161) |
-| 162 | [](./q162) |
-| 163 | [](./q163) |
-| 164 | [](./q164) |
+| 159 | [Combination Sum](./q159_combination_sum) |
+| 160 | [Special Keyboard](./q160_special_keyboard) | | `Dynamic Programming Approach` |
+| 161 | [Josephus problem](./q161_josephus) | | `Josephus Problem -- Math + Recursion` |
+| 162 | [Sort an array according to the other](./q162_sort_according_to_array) | | `Heap + Hash Table` |
+| 163 | [Sorting Elements of an Array by Frequency](./q163_sort_by_frequency) | | `Custom hybrid sort function in python` |
+| 164 | [Largest subarray with 0 sum](./q164_largest_subarray_zero_sum) | | `Sub-Array Sum` |
 | 165 | [](./q165) |
 | 166 | [](./q166) |
 | 167 | [](./q167) |
