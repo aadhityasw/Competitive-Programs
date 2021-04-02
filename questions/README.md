@@ -168,8 +168,8 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 162 | [Sort an array according to the other](./q162_sort_according_to_array) | | `Heap + Hash Table` |
 | 163 | [Sorting Elements of an Array by Frequency](./q163_sort_by_frequency) | | `Custom hybrid sort function in python` |
 | 164 | [Largest subarray with 0 sum](./q164_largest_subarray_zero_sum) | | `Sub-Array Sum` |
-| 165 | [](./q165) |
-| 166 | [](./q166) |
+| 165 | [Common Elements](./q165_common_elements_arrays) |
+| 166 | [Find All Four Sum Numbers](./q166_find_quaduple_subarray_sum) |
 | 167 | [](./q167) |
 | 168 | [](./q168) |
 | 169 | [](./q169) |
