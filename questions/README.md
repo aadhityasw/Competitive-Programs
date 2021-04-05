@@ -170,11 +170,11 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 164 | [Largest subarray with 0 sum](./q164_largest_subarray_zero_sum) | | `Sub-Array Sum` |
 | 165 | [Common Elements](./q165_common_elements_arrays) |
 | 166 | [Find All Four Sum Numbers](./q166_find_quaduple_subarray_sum) |
-| 167 | [](./q167) |
-| 168 | [](./q168) |
-| 169 | [](./q169) |
-| 170 | [](./q170) |
-| 171 | [](./q171) |
+| 167 | [Swapping pairs make sum equal](./q167_swap_equal_sum_arrays) | `Incomplete` |
+| 168 | [Depth First Traversal of Graph](./q168_depth_first_traversal) |
+| 169 | [Breadth First Traversal of Graph](./q169_breadth_first_traversal) |
+| 170 | [Detect cycle in an undirected graph](./q170_undirected_graph_cycle_detection) |
+| 171 | [Detect cycle in a directed graph](./q171_directed_graph_cycle_detection) |
 | 172 | [](./q172) |
 | 173 | [](./q173) |
 | 174 | [](./q174) |
