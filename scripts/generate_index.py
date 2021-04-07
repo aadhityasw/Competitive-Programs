@@ -1,6 +1,9 @@
-STARTING_INDEX = 160
-ENDING_INDEX = 180
+import os
+
+STARTING_INDEX = 180
+ENDING_INDEX = 210
 FILE_NAME = "index.txt"
+FILE_PATH = os.path.join('scripts', FILE_NAME)
 
 def generate(start, end, file_name) :
     """
@@ -19,4 +22,4 @@ def generate(start, end, file_name) :
 
 
 
-generate(STARTING_INDEX, ENDING_INDEX, FILE_NAME)
+generate(STARTING_INDEX, ENDING_INDEX, FILE_PATH)

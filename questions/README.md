@@ -167,7 +167,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 161 | [Josephus problem](./q161_josephus) | | `Josephus Problem -- Math + Recursion` |
 | 162 | [Sort an array according to the other](./q162_sort_according_to_array) | | `Heap + Hash Table` |
 | 163 | [Sorting Elements of an Array by Frequency](./q163_sort_by_frequency) | | `Custom hybrid sort function in python` |
-| 164 | [Largest subarray with 0 sum](./q164_largest_subarray_zero_sum) | | `Sub-Array Sum` |
+| 164 | [Largest subarray with Zero sum](./q164_largest_subarray_zero_sum) | | `Sub-Array Sum` |
 | 165 | [Common Elements](./q165_common_elements_arrays) |
 | 166 | [Find All Four Sum Numbers](./q166_find_quaduple_subarray_sum) |
 | 167 | [Swapping pairs make sum equal](./q167_swap_equal_sum_arrays) | `Incomplete` |
@@ -175,12 +175,42 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 169 | [Breadth First Traversal of Graph](./q169_breadth_first_traversal) |
 | 170 | [Detect cycle in an undirected graph](./q170_undirected_graph_cycle_detection) |
 | 171 | [Detect cycle in a directed graph](./q171_directed_graph_cycle_detection) |
-| 172 | [](./q172) |
-| 173 | [](./q173) |
-| 174 | [](./q174) |
-| 175 | [](./q175) |
-| 176 | [](./q176) |
-| 177 | [](./q177) |
-| 178 | [](./q178) |
+| 172 | [Count distinct elements in every window](./q172_array_distinct_elements_count_window) |
+| 173 | [Array Pair Sum Divisibility Problem](./q173_array_pair_sum_divisibility) |
+| 174 | [Longest consecutive subsequence](./q174_longest_consecutive_subsequence) |
+| 175 | [Array Subset of another array](./q175_array_subsets) |
+| 176 | [Find all pairs with a given sum](./q176_array_find_pairs_sum) |
+| 177 | [Zero Sum Subarrays](./q177_zero_sum_subarray) | `Zero Sum Subarray` |
+| 178 | [Minimum indexed character](./q178_minimum_index_character) |
 | 179 | [](./q179) |
 | 180 | [](./q180) |
+| 181 | [](./q181) |
+| 182 | [](./q182) |
+| 183 | [](./q183) |
+| 184 | [](./q184) |
+| 185 | [](./q185) |
+| 186 | [](./q186) |
+| 187 | [](./q187) |
+| 188 | [](./q188) |
+| 189 | [](./q189) |
+| 190 | [](./q190) |
+| 191 | [](./q191) |
+| 192 | [](./q192) |
+| 193 | [](./q193) |
+| 194 | [](./q194) |
+| 195 | [](./q195) |
+| 196 | [](./q196) |
+| 197 | [](./q197) |
+| 198 | [](./q198) |
+| 199 | [](./q199) |
+| 200 | [](./q200) |
+| 201 | [](./q201) |
+| 202 | [](./q202) |
+| 203 | [](./q203) |
+| 204 | [](./q204) |
+| 205 | [](./q205) |
+| 206 | [](./q206) |
+| 207 | [](./q207) |
+| 208 | [](./q208) |
+| 209 | [](./q209) |
+| 210 | [](./q210) |
