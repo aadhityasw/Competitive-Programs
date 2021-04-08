@@ -182,10 +182,10 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 176 | [Find all pairs with a given sum](./q176_array_find_pairs_sum) |
 | 177 | [Zero Sum Subarrays](./q177_zero_sum_subarray) | `Zero Sum Subarray` |
 | 178 | [Minimum indexed character](./q178_minimum_index_character) |
-| 179 | [](./q179) |
-| 180 | [](./q180) |
-| 181 | [](./q181) |
-| 182 | [](./q182) |
+| 179 | [Check if two arrays are equal or not ](./q179_equal_array) |
+| 180 | [Uncommon characters](./q180_uncommon_characters) |
+| 181 | [Smallest window containing characters of another string](./q181_common_substring_window) | | `two-pointers string` |
+| 182 | [Check if frequencies can be equal](./q182_character_equal_frequency_one_removal) |
 | 183 | [](./q183) |
 | 184 | [](./q184) |
 | 185 | [](./q185) |
