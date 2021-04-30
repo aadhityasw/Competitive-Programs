@@ -180,16 +180,16 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 174 | [Longest consecutive subsequence](./q174_longest_consecutive_subsequence) |
 | 175 | [Array Subset of another array](./q175_array_subsets) |
 | 176 | [Find all pairs with a given sum](./q176_array_find_pairs_sum) |
-| 177 | [Zero Sum Subarrays](./q177_zero_sum_subarray) | `Zero Sum Subarray` |
+| 177 | [Zero Sum Subarrays](./q177_zero_sum_subarray) | | `Zero Sum Subarray` |
 | 178 | [Minimum indexed character](./q178_minimum_index_character) |
 | 179 | [Check if two arrays are equal or not ](./q179_equal_array) |
 | 180 | [Uncommon characters](./q180_uncommon_characters) |
 | 181 | [Smallest window containing characters of another string](./q181_common_substring_window) | | `two-pointers string` |
 | 182 | [Check if frequencies can be equal](./q182_character_equal_frequency_one_removal) |
-| 183 | [](./q183) |
-| 184 | [](./q184) |
-| 185 | [](./q185) |
-| 186 | [](./q186) |
+| 183 | [Topological sort](./q183_topological_sort) | | `Topological Sort` |
+| 184 | [Find the number of islands](./q184_8_directional_find_island) | | `Island Find` |
+| 185 | [Dijkstra Algorithm](./q185_dijkstra_algorithm) | | `Dijkstra` |
+| 186 | [Minimum Swaps to Sort](./q186_minimum_swaps_sort) | | `Minimum swaps for sorting -- Graph` |
 | 187 | [](./q187) |
 | 188 | [](./q188) |
 | 189 | [](./q189) |
