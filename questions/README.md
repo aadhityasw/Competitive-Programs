@@ -190,13 +190,13 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 184 | [Find the number of islands](./q184_8_directional_find_island) | | `Island Find` |
 | 185 | [Dijkstra Algorithm](./q185_dijkstra_algorithm) | | `Dijkstra` |
 | 186 | [Minimum Swaps to Sort](./q186_minimum_swaps_sort) | | `Minimum swaps for sorting -- Graph` |
-| 187 | [](./q187) |
-| 188 | [](./q188) |
-| 189 | [](./q189) |
-| 190 | [](./q190) |
-| 191 | [](./q191) |
-| 192 | [](./q192) |
 | 193 | [](./q193) |
+| 187 | [Shortest Source to Destination Path in a Grid](./q187_shortest_path_grid) |
+| 188 | [Find whether path exist](./q188_find_path_grid) |
+| 189 | [Minimum Cost Path](./q189_minimum_cost_path) | | `BFS with Min Heap` |
+| 190 | [Circle of strings ](./q190_circle_of_strings) | | `Modelling array problem into graph` `Eulerian Circuit` |
+| 191 | [Special Matrix](./q191_special_matrix) | `Needs another look` | `Matrix based` |
+| 192 | [Floyd Warshall](./q192_floyd_warshall) | | `Floyd Warshall` `All Pairs Shortest Path problem` |
 | 194 | [](./q194) |
 | 195 | [](./q195) |
 | 196 | [](./q196) |
