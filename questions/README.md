@@ -190,20 +190,20 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 184 | [Find the number of islands](./q184_8_directional_find_island) | | `Island Find` |
 | 185 | [Dijkstra Algorithm](./q185_dijkstra_algorithm) | | `Dijkstra` |
 | 186 | [Minimum Swaps to Sort](./q186_minimum_swaps_sort) | | `Minimum swaps for sorting -- Graph` |
-| 193 | [](./q193) |
 | 187 | [Shortest Source to Destination Path in a Grid](./q187_shortest_path_grid) |
 | 188 | [Find whether path exist](./q188_find_path_grid) |
 | 189 | [Minimum Cost Path](./q189_minimum_cost_path) | | `BFS with Min Heap` |
 | 190 | [Circle of strings ](./q190_circle_of_strings) | | `Modelling array problem into graph` `Eulerian Circuit` |
 | 191 | [Special Matrix](./q191_special_matrix) | `Needs another look` | `Matrix based` |
 | 192 | [Floyd Warshall](./q192_floyd_warshall) | | `Floyd Warshall` `All Pairs Shortest Path problem` |
-| 194 | [](./q194) |
-| 195 | [](./q195) |
-| 196 | [](./q196) |
-| 197 | [](./q197) |
-| 198 | [](./q198) |
-| 199 | [](./q199) |
-| 200 | [](./q200) |
+| 193 | [Alien Dictionary](./q193_alien_dictionary) | | `Topological Sort` |
+| 194 | [Snake and Ladder Problem](./q194_snake_and_ladder) |
+| 195 | [Find Missing And Repeating](./q195_missing_and_repeating_in_array) | | `Math` |
+| 196 | [Activity Selection](./q196_activity_selection) | | `Greedy` |
+| 197 | [Choose and Swap](./q197_choose_and_swap) |
+| 198 | [Page Faults in LRU](./q198_lru_page_faults) | | `LRU Cache` |
+| 199 | [Largest number possible](./q199_largest_number_possible) |
+| 200 | [Minimize the Heights](./q200_minimize_building_height_difference) | `Needs another look` | `Greedy` |
 | 201 | [](./q201) |
 | 202 | [](./q202) |
 | 203 | [](./q203) |
