@@ -204,12 +204,12 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 198 | [Page Faults in LRU](./q198_lru_page_faults) | | `LRU Cache` |
 | 199 | [Largest number possible](./q199_largest_number_possible) |
 | 200 | [Minimize the Heights](./q200_minimize_building_height_difference) | `Needs another look` | `Greedy` |
-| 201 | [](./q201) |
-| 202 | [](./q202) |
-| 203 | [](./q203) |
-| 204 | [](./q204) |
-| 205 | [](./q205) |
 | 206 | [](./q206) |
+| 201 | [Huffman Decoding](./q201_huffman_decoding) | | `Huffman Encoding` |
+| 202 | [Minimum Spanning Tree](./q202_minimum_spanning_tree_edge_sum) | | `Minimum Spanning Tree` `Greedy` |
+| 203 | [Shop in Candy Store](./q203_shop_in_candy_store) |
+| 204 | [Geek collects the balls](./q204_geek_collects_balls) |
+| 205 | [Maximum Index](./q205_maximum_index) |
 | 207 | [](./q207) |
 | 208 | [](./q208) |
 | 209 | [](./q209) |
