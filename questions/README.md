@@ -204,13 +204,43 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 198 | [Page Faults in LRU](./q198_lru_page_faults) | | `LRU Cache` |
 | 199 | [Largest number possible](./q199_largest_number_possible) |
 | 200 | [Minimize the Heights](./q200_minimize_building_height_difference) | `Needs another look` | `Greedy` |
-| 206 | [](./q206) |
 | 201 | [Huffman Decoding](./q201_huffman_decoding) | | `Huffman Encoding` |
 | 202 | [Minimum Spanning Tree](./q202_minimum_spanning_tree_edge_sum) | | `Minimum Spanning Tree` `Greedy` |
 | 203 | [Shop in Candy Store](./q203_shop_in_candy_store) |
 | 204 | [Geek collects the balls](./q204_geek_collects_balls) |
 | 205 | [Maximum Index](./q205_maximum_index) |
-| 207 | [](./q207) |
-| 208 | [](./q208) |
-| 209 | [](./q209) |
-| 210 | [](./q210) |
+| 206 | [Consecutive 1's not allowed](./q206_consecutive_one_not_allowed) | `New Perspective` | `Fibonacci Series` `Dynamic Programming` |
+| 207 | [Two numbers with sum closest to zero](./q207_two_number_closest_zero_sum) | | `Two Pointer` |
+| 208 | [Minimum Operations](./q208_minimum_operations_add_multiply) |
+| 209 | [Max length chain](./q209_maximum_length_chain) | | `Dynamic Programming` |
+| 210 | [Minimum number of Coins](./q210_minimum_number_coins) |
+| 211 | [Longest Common Substring](./q211_longest_common_substring) | | `Dynamic Programming` |
+| 212 | [Longest Increasing Subsequence](./q212_longest_strictly_increasing_subsequence) | `New Perspective` | `Dynamic Programming` `Binary Search` |
+| 213 | [Longest Common Subsequence](./q213_longest_common_subsequence) | | `Longest Common Subsequence` |
+| 214 | [](./q214) |
+| 215 | [](./q215) |
+| 216 | [](./q216) |
+| 217 | [](./q217) |
+| 218 | [](./q218) |
+| 219 | [](./q219) |
+| 220 | [](./q220) |
+| 221 | [](./q221) |
+| 222 | [](./q222) |
+| 223 | [](./q223) |
+| 224 | [](./q224) |
+| 225 | [](./q225) |
+| 226 | [](./q226) |
+| 227 | [](./q227) |
+| 228 | [](./q228) |
+| 229 | [](./q229) |
+| 230 | [](./q230) |
+| 231 | [](./q231) |
+| 232 | [](./q232) |
+| 233 | [](./q233) |
+| 234 | [](./q234) |
+| 235 | [](./q235) |
+| 236 | [](./q236) |
+| 237 | [](./q237) |
+| 238 | [](./q238) |
+| 239 | [](./q239) |
+| 240 | [](./q240) |
