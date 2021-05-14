@@ -215,15 +215,15 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 209 | [Max length chain](./q209_maximum_length_chain) | | `Dynamic Programming` |
 | 210 | [Minimum number of Coins](./q210_minimum_number_coins) |
 | 211 | [Longest Common Substring](./q211_longest_common_substring) | | `Dynamic Programming` |
-| 212 | [Longest Increasing Subsequence](./q212_longest_strictly_increasing_subsequence) | `New Perspective` | `Dynamic Programming` `Binary Search` |
+| 212 | [Longest Increasing Subsequence](./q212_longest_strictly_increasing_subsequence) | `New Perspective` | `Dynamic Programming` `Binary Search` `Increasing Subsequence` |
 | 213 | [Longest Common Subsequence](./q213_longest_common_subsequence) | | `Longest Common Subsequence` |
-| 214 | [](./q214) |
-| 215 | [](./q215) |
-| 216 | [](./q216) |
-| 217 | [](./q217) |
-| 218 | [](./q218) |
-| 219 | [](./q219) |
-| 220 | [](./q220) |
+| 214 | [0 - 1 Knapsack Problem](./q214_0_1_knapsack) | | `0 - 1 Knapsack` `Dynamic Programming` |
+| 215 | [Maximum sum increasing subsequence](./q215_maximum_sum_increasing_subsequence) | | `Dynamic Programming` `Increasing Subsequence` |
+| 216 | [Minimum number of jumps](./q216_minimum_number_jumps) |
+| 217 | [Edit Distance](./q217_edit_distance) | | `Edit Distance` `Dynamic Programming` |
+| 218 | [Coin Change](./q218_coin_change) | `New Perspective` | `Dynamic Programming` `Partition table` |
+| 219 | [Partition Equal Subset Sum](./q219_partition_equal_sum_subset) | | `Partition table` |
+| 220 | [Smallest Positive missing number](./q220_smallest_positive_missing_number) |
 | 221 | [](./q221) |
 | 222 | [](./q222) |
 | 223 | [](./q223) |
