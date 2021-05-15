@@ -4,6 +4,7 @@ This repository contains the solutions for various questions from online competi
 
 ### Repository Status
 [![CodeFactor](https://www.codefactor.io/repository/github/aadhityasw/competitive-programs/badge)](https://www.codefactor.io/repository/github/aadhityasw/competitive-programs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Setup and Contribution
 
