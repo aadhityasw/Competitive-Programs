@@ -2,6 +2,9 @@
 
 This repository contains the solutions for various questions from online competitive programming portals. 
 
+### Repository Status
+[![CodeFactor](https://www.codefactor.io/repository/github/aadhityasw/competitive-programs/badge)](https://www.codefactor.io/repository/github/aadhityasw/competitive-programs)
+
 ### Setup and Contribution
 
 Refer to the [Contributing](Contributing.md) file regarding this.
