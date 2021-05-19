@@ -115,7 +115,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 109 | [Stock buy and sell](./q109_stock_buy_sell) |
 | 110 | [Element with left side smaller and right side greater](./q110_element_small_left_big_right) |
 | 111 | [Convert array into Zig-Zag fashion](./q111_zig_zag_numerically) |
-| 112 | [Spirally traversing a matrix](./q112_matrix_spiral_traversal) |
+| 112 | [Spirally traversing a matrix](./q112_matrix_spiral_traversal) | | `Matrix Spiral Traversal` |
 | 113 | [Largest Number formed from an Array](./q113_largest_number_formed_array) | | `Merge Sort` |
 | 114 | [Rotate a Linked List](./q114_rotate_linked_list) |
 | 115 | [Reverse a Linked List in groups of given size](./q115_reverse_linked_list_in_groups) |
@@ -224,14 +224,14 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 218 | [Coin Change](./q218_coin_change) | `New Perspective` | `Dynamic Programming` `Partition table` |
 | 219 | [Partition Equal Subset Sum](./q219_partition_equal_sum_subset) | | `Partition table` |
 | 220 | [Smallest Positive missing number](./q220_smallest_positive_missing_number) |
-| 221 | [](./q221) |
-| 222 | [](./q222) |
-| 223 | [](./q223) |
-| 224 | [](./q224) |
-| 225 | [](./q225) |
-| 226 | [](./q226) |
-| 227 | [](./q227) |
-| 228 | [](./q228) |
+| 221 | [Box Stacking](./q221_box_stacking) | | `Box Stacking` `Dynamic Programming` |
+| 222 | [Maximize The Cut Segments](./q222_maximize_cut_segments) | | `Dynamic Programming` `Rod Cutting` |
+| 223 | [Maximum path sum in matrix](./q223_maximum_path_sum_matrix) |
+| 224 | [Minimum sum partition](./q224_minimum_sum_partition) | | `Dynamic Programming` |
+| 225 | [Count number of hops](./q225_count_hops) | | `Dynamic Programming` `Simplified DP array` |
+| 226 | [Egg Dropping Puzzle](./q226_egg_dropping) | `Needs Another Look` `New Perspective` | `Dynamic Programming` `Egg Drop` |
+| 227 | [Optimal Strategy For A Game](./q227_optimal_game_strategy) | | `Dynamic Programming` `New Perspective` `Game Strategy` |
+| 228 | [Most frequent word in an array of strings](./q228_most_frequent_word) |
 | 229 | [](./q229) |
 | 230 | [](./q230) |
 | 231 | [](./q231) |
