@@ -232,15 +232,35 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 226 | [Egg Dropping Puzzle](./q226_egg_dropping) | `Needs Another Look` `New Perspective` | `Dynamic Programming` `Egg Drop` |
 | 227 | [Optimal Strategy For A Game](./q227_optimal_game_strategy) | | `Dynamic Programming` `New Perspective` `Game Strategy` |
 | 228 | [Most frequent word in an array of strings](./q228_most_frequent_word) |
-| 229 | [](./q229) |
-| 230 | [](./q230) |
-| 231 | [](./q231) |
-| 232 | [](./q232) |
-| 233 | [](./q233) |
-| 234 | [](./q234) |
-| 235 | [](./q235) |
-| 236 | [](./q236) |
-| 237 | [](./q237) |
-| 238 | [](./q238) |
+| 229 | [CamelCase Pattern Matching](./q229_camel_case_pattern_matching) | | `Trie` |
+| 230 | [String Ignorance](./q230_string_ignorance) |
+| 231 | [Shortest Common Supersequence](./q231_shortest_common_supersequence) |
+| 232 | [Design a tiny URL or URL shortener ](./q232_tiny_url_decoder) |
+| 233 | [Find the element that appears once in sorted array](./q233_single_occuring_element_in_sorted_array) |
+| 234 | [Search in a Rotated Array](./q234_binary_search_rotated_array) |
+| 235 | [Sum of Middle Elements of two sorted arrays](./q235_sum_middle_elements_two_sorted_arrays) | `Incomplete` |
+| 236 | [Colorful Strings](./q236_colorful_strings) | | `Permutation` |
+| 237 | [Longest consecutive sequence in Binary tree](./q237_longest_consecutive_sequence_binary_tree) |
+| 238 | [Lowest Common Ancestor in a Binary Tree](./q238_lca_binary_tree) |
 | 239 | [](./q239) |
 | 240 | [](./q240) |
+| 241 | [](./q241) |
+| 242 | [](./q242) |
+| 243 | [](./q243) |
+| 244 | [](./q244) |
+| 245 | [](./q245) |
+| 246 | [](./q246) |
+| 247 | [](./q247) |
+| 248 | [](./q248) |
+| 249 | [](./q249) |
+| 250 | [](./q250) |
+| 251 | [](./q251) |
+| 252 | [](./q252) |
+| 253 | [](./q253) |
+| 254 | [](./q254) |
+| 255 | [](./q255) |
+| 256 | [](./q256) |
+| 257 | [](./q257) |
+| 258 | [](./q258) |
+| 259 | [](./q259) |
+| 260 | [](./q260) |
