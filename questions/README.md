@@ -242,16 +242,16 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 236 | [Colorful Strings](./q236_colorful_strings) | | `Permutation` |
 | 237 | [Longest consecutive sequence in Binary tree](./q237_longest_consecutive_sequence_binary_tree) |
 | 238 | [Lowest Common Ancestor in a Binary Tree](./q238_lca_binary_tree) |
-| 239 | [](./q239) |
-| 240 | [](./q240) |
-| 241 | [](./q241) |
-| 242 | [](./q242) |
-| 243 | [](./q243) |
-| 244 | [](./q244) |
-| 245 | [](./q245) |
-| 246 | [](./q246) |
-| 247 | [](./q247) |
-| 248 | [](./q248) |
+| 239 | [K-th element of two sorted Arrays](./q239_k_element_two_sorted_array) | | `Simultaneous Multiple Array Divide and Conquer` |
+| 240 | [Candies Problem](./q240_candies_problem) |
+| 241 | [Cross the Buildings](./q241_cross_buildings) |
+| 242 | [Happiest Class](./q242_happiest_class) |
+| 243 | [Maching Sets](./q243_matching_sets) |
+| 244 | [Course Registration](./q244_course_registration) |
+| 245 | [Quick Sort](./q245_quick_sort) | | `Quick Sort` |
+| 246 | [Generate IP Addresses](./q246_generate_ip_address) |
+| 247 | [Word Boggle](./q247_word_boggle) | | `Backtracking` `Trie` |
+| 248 | [Rotate Bits](./q248_rotate_bits) |
 | 249 | [](./q249) |
 | 250 | [](./q250) |
 | 251 | [](./q251) |
