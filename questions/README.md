@@ -252,12 +252,12 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 246 | [Generate IP Addresses](./q246_generate_ip_address) |
 | 247 | [Word Boggle](./q247_word_boggle) | | `Backtracking` `Trie` |
 | 248 | [Rotate Bits](./q248_rotate_bits) |
-| 249 | [](./q249) |
-| 250 | [](./q250) |
-| 251 | [](./q251) |
-| 252 | [](./q252) |
-| 253 | [](./q253) |
-| 254 | [](./q254) |
+| 249 | [Rat in a Maze Problem](./q249_rat_in_maze) |
+| 250 | [Solve the Sudoku](./q250_sudoku) | | `Sudoku` |
+| 251 | [Count total set bits](./q251_count_set_bits) | | `Bit based` |
+| 252 | [Swap all odd and even bits](./q252_swap_odd_even_bits) |
+| 253 | [Maximum subset XOR](./q253_maximum_subset_XOR) | `Needs another Look` | `Bitwise Gaussian Elimination` |
+| 254 | [N-Queen Problem](./q254_n_queen) | | `N Queen` |
 | 255 | [](./q255) |
 | 256 | [](./q256) |
 | 257 | [](./q257) |
