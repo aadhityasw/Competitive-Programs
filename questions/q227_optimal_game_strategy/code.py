@@ -1,57 +1,29 @@
 """
-This code uses a Memoization approach with a DP table
-The table[0][n] is our required value
-table[front][rear] = (player1, player2) where player1 is the best score that they can obtain in the arr[front:rear] subset of arr
+This code uses a Memoization approach with a DP table of 1 dimension
+The table[n] is our required value after n iterations
+At an iteration `i`, the values in table are the values of table[i] of the previous approach
 """
 
+
 #Function to find the maximum possible amount of money we can win.
-def optimalStrategyOfGame(arr, n):
-
-    table = [[(0, 0) for _ in range(n)] for _ in range(n)]
-
-    i = n
-    while i > 0 :
-        for j in range(i) :
-            # We fill the r'th row and c'th column in this iteration
-            r = j
-            c = j + n - i
-
-            if r == c :
-                # If we are filling the diagonal elements
-                table[r][c] = (arr[r], 0)
+def optimalStrategyOfGame(arr, N):
+    board = [None for _ in range(N)]
+    
+    for i in range(N-1, -1, -1) :
+        board[i] = (arr[i], 0)
+        for j in range(i+1, N) :
+            if board[j-1][1] + arr[j] < board[j][1] + arr[i] :
+                board[j] = (
+                    board[j][1] + arr[i],
+                    board[j][0]
+                )
             else :
-                # All other cases
-
-                # We choose the first number or arr[r] for this option
-                option_1 = arr[r] + table[r+1][c][1]
-                # We choose the last number or arr[c] for this option
-                option_2 = arr[c] + table[r][c-1][1]
-
-                # We fill the table according to the results of these options
-                if option_1 >= option_2 :
-                    # If taking the first value is favorable, then that value is for player 1
-                    # And the player 2 recieves the favorable position for the remaining array
-                    table[r][c] = (
-                        option_1,
-                        table[r+1][c][0]
-                    )
-                else :
-                    # If taking the last value is favorable, then that value is for player 1
-                    # And the player 2 recieves the favorable position for the remaining array
-                    table[r][c] = (
-                        option_2,
-                        table[r][c-1][0]
-                    )
-
-        # After every iteration of this loop, we fill one less number in the table
-        # This is because we fill only the upper diagonal portion of the table matrix
-        i -= 1
+                board[j] = (
+                    board[j-1][1] + arr[j],
+                    board[j-1][0]
+                )
     
-    #for row in table :
-    #    print(row)
-    
-    # Return the score of player 1 for the whole array
-    return table[0][n-1][0]
+    return board[N-1][0]
 
 
 import atexit

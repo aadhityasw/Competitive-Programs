@@ -148,7 +148,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 142 | [Level order traversal in spiral form ](./q142_binary_tree_spiral_level_order) |
 | 143 | [Connect Nodes at Same Level](./q143_binary_tree_connect_level_nodes) |
 | 144 | [Lowest Common Ancestor in a BST](./q144_lowest_common_ancestor_bst) |
-| 145 | [Binary Tree to Double Linked List](./q145_binary_tree_to_double_linked_list) |
+| 145 | [Binary Tree to Double Linked List](./q145_binary_tree_to_double_linked_list) | | `Tree InOrder Traversal` |
 | 146 | [Symmetric Tree](./q146_symmetric_binary_tree) |
 | 147 | [Height of Binary Tree](./q147_binary_tree_height) |
 | 148 | [Maximum Path Sum between 2 Leaf Nodes](./q148_maximum_path_sum_leaf_nodes) |
@@ -159,7 +159,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 153 | [Heap Sort](./q153_heap_sort) | | `Heap Sort` |
 | 154 | [Binary Heap Operations](./q154_binary_heap) |
 | 155 | [Rearrange characters](./q155_rearrange_characters_heap) | | `Heapq library with custom predicate` |
-| 156 | [Merge K sorted linked lists](./q156_merge_k_sorted_linked_list) |
+| 156 | [Merge K sorted linked lists](./q156_merge_k_sorted_linked_list) | | `Heaps` |
 | 157 | [Flood fill Algorithm](./q157_flood_fill) |
 | 158 | [Number of paths](./q158_number_paths) | | `math` |
 | 159 | [Combination Sum](./q159_combination_sum) |
@@ -258,9 +258,29 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 252 | [Swap all odd and even bits](./q252_swap_odd_even_bits) |
 | 253 | [Maximum subset XOR](./q253_maximum_subset_XOR) | `Needs another Look` | `Bitwise Gaussian Elimination` |
 | 254 | [N-Queen Problem](./q254_n_queen) | | `N Queen` |
-| 255 | [](./q255) |
-| 256 | [](./q256) |
-| 257 | [](./q257) |
-| 258 | [](./q258) |
-| 259 | [](./q259) |
-| 260 | [](./q260) |
+| 255 | [Top View of a Tree](./q255_top_view_tree) |
+| 256 | [Down to Zero II](./q256_down_to_zero) | | `Modelling Greedy into Dynamic Programming` |
+| 257 | [Almost Sorted](./q257_almost_sorted) |
+| 258 | [Queen's Attack II](./q258_queens_attack_2) |
+| 259 | [Bigger is Greater](./q259_bigger_is_greater) |
+| 260 | [Generate Parentheses](./q260_generate_parenthesis) |
+| 261 | [Is Sudoku Valid](./q261_is_sudoku_valid) |
+| 262 | [X Total Shapes](./q262_X_total_shapes) | | `Graph Coloring` |
+| 263 | [Merge k Sorted Arrays](./q263_merge_k_sorted_arrays) | | `Heaps` |
+| 264 | [](./q264) |
+| 265 | [](./q265) |
+| 266 | [](./q266) |
+| 267 | [](./q267) |
+| 268 | [](./q268) |
+| 269 | [](./q269) |
+| 270 | [](./q270) |
+| 271 | [](./q271) |
+| 272 | [](./q272) |
+| 273 | [](./q273) |
+| 274 | [](./q274) |
+| 275 | [](./q275) |
+| 276 | [](./q276) |
+| 277 | [](./q277) |
+| 278 | [](./q278) |
+| 279 | [](./q279) |
+| 280 | [](./q280) |
