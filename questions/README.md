@@ -77,7 +77,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 71 | [String to Integer](./q71_string_to_integer) |
 | 72 | [Container With Most Water](./q72_container_with_most_water) | | `Standard Problem` |
 | 73 | [Regular Expression Matching](./q73_regular_expression_matching) | | `Regex Matching Using DP` |
-| 74 | [Kadane's Algorithm](./q74_kandanes) |  | `Kadane's Algorithm` |
+| 74 | [Kadane's Algorithm](./q74_kandanes) |  | `Kadane's Algorithm` `Maximum Sum Contiguous Subarray` |
 | 75 | [Delete without head pointer](./q75_delete_without_head) |
 | 76 | [Strongly Connected Components](./q76_strongly_connected_components) | | `Kosaraju's Algorithm` |
 | 77 | [LRU Cache](./q77_lru_cache) | | `LRU Cache` |
@@ -267,14 +267,14 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 261 | [Is Sudoku Valid](./q261_is_sudoku_valid) |
 | 262 | [X Total Shapes](./q262_X_total_shapes) | | `Graph Coloring` |
 | 263 | [Merge k Sorted Arrays](./q263_merge_k_sorted_arrays) | | `Heaps` |
-| 264 | [](./q264) |
-| 265 | [](./q265) |
-| 266 | [](./q266) |
-| 267 | [](./q267) |
-| 268 | [](./q268) |
-| 269 | [](./q269) |
-| 270 | [](./q270) |
-| 271 | [](./q271) |
+| 264 | [Prerequisite Tasks](./q264_prerequisite_task) | | `Cycle Detection` `Graph` |
+| 265 | [Min Steps in Infinite Grid](./q265_min_steps_in_infinite_grid) | | `Arrays` |
+| 266 | [Minimum Lights to Activate](./q266_minimum_lights_to_activate) |
+| 267 | [Maximum Sum Triplet](./q267_maximum_sum_triplets) | `Needs another Look` | `Arrays` |
+| 268 | [Prime Sum](./q268_prime_sum) |
+| 269 | [Max Non Negative SubArray](./q269_maximum_sum_non_negative_subarray) |
+| 270 | [Perfect Peak of Array](./q270_array_peak) |
+| 271 | [Diagonal Traversal of Binary Tree](./q271_binary_tree_diagonal_traversal) |
 | 272 | [](./q272) |
 | 273 | [](./q273) |
 | 274 | [](./q274) |

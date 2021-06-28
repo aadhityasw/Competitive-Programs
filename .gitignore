@@ -8,3 +8,5 @@
 .vscode
 
 scripts/*.txt
+
+*/*/__pycache__/*
