@@ -275,12 +275,32 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 269 | [Max Non Negative SubArray](./q269_maximum_sum_non_negative_subarray) |
 | 270 | [Perfect Peak of Array](./q270_array_peak) |
 | 271 | [Diagonal Traversal of Binary Tree](./q271_binary_tree_diagonal_traversal) |
-| 272 | [](./q272) |
-| 273 | [](./q273) |
-| 274 | [](./q274) |
-| 275 | [](./q275) |
-| 276 | [](./q276) |
-| 277 | [](./q277) |
-| 278 | [](./q278) |
-| 279 | [](./q279) |
-| 280 | [](./q280) |
+| 272 | [Largest Number](./q272_largest_number) | | `Custom Compare Function` |
+| 273 | [First Missing Integer](./q273_first_missing_integer) | | `Array Filtering` |
+| 274 | [Merge new interval into NonOverlapping Intervals](./q274_merge_new_interval_with_non_overlapping_intervals) |
+| 275 | [Next Similar Number](./q275_next_similar_number) | | `Number Arrangement` |
+| 276 | [Rearrange Array](./q276_rearrange_array) | | `Number Encoding` |
+| 277 | [Numbers of length N and value less than K](./q277_n_digit_number_less_than_k) | `Partially Incomplete` `Needs another Look` | `Dynamic Programming` |
+| 278 | [Square Root of Integer](./q278_square_root_integer) |
+| 279 | [Power Function](./q279_power_integer) | | `Square and Multiply` |
+| 280 | [WoodCutting Made Easy](./q280_easy_woodcutting) | | `Binary Search` |
+| 281 | [Matrix Median](./q281_matrix_median) | | `Binary Search` |
+| 282 | [](./q282) |
+| 283 | [](./q283) |
+| 284 | [](./q284) |
+| 285 | [](./q285) |
+| 286 | [](./q286) |
+| 287 | [](./q287) |
+| 288 | [](./q288) |
+| 289 | [](./q289) |
+| 290 | [](./q290) |
+| 291 | [](./q291) |
+| 292 | [](./q292) |
+| 293 | [](./q293) |
+| 294 | [](./q294) |
+| 295 | [](./q295) |
+| 296 | [](./q296) |
+| 297 | [](./q297) |
+| 298 | [](./q298) |
+| 299 | [](./q299) |
+| 300 | [](./q300) |

@@ -25,7 +25,7 @@ class Solution:
 
 #%%
 
-class Solution:
+class Solution1:
     def findMedianSortedArrays(self, nums1, nums2) :
         m, n = len(nums1), len(nums2)
         # Ensures that (n, nums2) is the longer array
@@ -45,7 +45,7 @@ class Solution:
         aMaxCount = m
 
         while (aMinCount <= aMaxCount) :
-            aCount = aMinCount + int((aMaxCount - aMinCount) / 2);
+            aCount = aMinCount + int((aMaxCount - aMinCount) / 2)
             bCount = left_half_length - aCount
 
             if aCount > 0 and nums1[aCount - 1] > nums2[bCount] :
