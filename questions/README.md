@@ -284,13 +284,13 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 278 | [Square Root of Integer](./q278_square_root_integer) |
 | 279 | [Power Function](./q279_power_integer) | | `Square and Multiply` |
 | 280 | [WoodCutting Made Easy](./q280_easy_woodcutting) | | `Binary Search` |
-| 281 | [Matrix Median](./q281_matrix_median) | | `Binary Search` |
-| 282 | [](./q282) |
-| 283 | [](./q283) |
-| 284 | [](./q284) |
-| 285 | [](./q285) |
-| 286 | [](./q286) |
-| 287 | [](./q287) |
+| 281 | [Matrix Median](./q281_matrix_median) | | `Binary Search` | `Binary Search Application` `Find insert position using Binary Search` |
+| 282 | [Preorder to BST](./q282_preorder_to_bst) |
+| 283 | [Simple Queries](./q283_simple_queries) | `Partially Incomplete` `Needs another Look` |
+| 284 | [Count Element Occurence](./q284_count_element_occurance) |
+| 285 | [Divide Integers](./q285_divide_integers) | `Needs another Look` | `Bit Manipulation` |
+| 286 | [Single Number among thrice occuring numbers](./q286_single_number_among_thrice) | | `Bit Manipulation` |
+| 287 | [Min XOR value](./q287_minimum_xor_value) |
 | 288 | [](./q288) |
 | 289 | [](./q289) |
 | 290 | [](./q290) |
