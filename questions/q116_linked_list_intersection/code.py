@@ -48,7 +48,7 @@ def intersetPoint(head1,head2):
     head1, l1 = reverse(head1)
     head2, l3 = reverse(head2)
     
-    common = (l1 + l2 - l3)/2;
+    common = (l1 + l2 - l3)/2
     common -= 1
     while common > 0 :
         head1 = head1.next

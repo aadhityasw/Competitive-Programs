@@ -14,6 +14,9 @@ def intersetPoint(head1,head2):
         if ptr2 == None :
             ptr2 = head1
         
+        if ptr1 is ptr2 :
+            break
+        
         ptr1 = ptr1.next
         ptr2 = ptr2.next
     

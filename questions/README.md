@@ -74,7 +74,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 68 | [Longest Palindromic Substring](./q68_longest_palindromic_substring) | | `Manacher's Algorithm` |
 | 69 | [Palindrome Number](./q69_palindrome_number) |
 | 70 | [ZigZag Conversion](./q70_zigzag_convention) |
-| 71 | [String to Integer](./q71_string_to_integer) |
+| 71 | [String to Integer](./q71_string_to_integer) | | `atoi` |
 | 72 | [Container With Most Water](./q72_container_with_most_water) | | `Standard Problem` |
 | 73 | [Regular Expression Matching](./q73_regular_expression_matching) | | `Regex Matching Using DP` |
 | 74 | [Kadane's Algorithm](./q74_kandanes) |  | `Kadane's Algorithm` `Maximum Sum Contiguous Subarray` |
@@ -291,16 +291,16 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 285 | [Divide Integers](./q285_divide_integers) | `Needs another Look` | `Bit Manipulation` |
 | 286 | [Single Number among thrice occuring numbers](./q286_single_number_among_thrice) | | `Bit Manipulation` |
 | 287 | [Min XOR value](./q287_minimum_xor_value) |
-| 288 | [](./q288) |
-| 289 | [](./q289) |
-| 290 | [](./q290) |
-| 291 | [](./q291) |
-| 292 | [](./q292) |
-| 293 | [](./q293) |
-| 294 | [](./q294) |
-| 295 | [](./q295) |
-| 296 | [](./q296) |
-| 297 | [](./q297) |
-| 298 | [](./q298) |
-| 299 | [](./q299) |
+| 288 | [Stringoholics](./q288_stringoholics) | `Needs another Look` |
+| 289 | [Integer To Roman](./q289_integer_to_roman) |
+| 290 | [Power of 2](./q290_power_of_two) | | `Integer Division using strings` |
+| 291 | [Minimum Characters required to make a String Palindromic](./q291_insert_front_to_form_palindrome) |
+| 292 | [Pair With Given Difference](./q292_pair_with_given_difference) |
+| 293 | [3 Sum](./q293_three_number_sum) | | `Tow Pointers` |
+| 294 | [3 Sum Zero](./q294_three_sum_zero) | | `Lookup Table` |
+| 295 | [Maximum Ones After Modification](./q295_maximum_ones_after_modification) |
+| 296 | [Different Bits Sum Pairwise](./q296_different_bits_sum_pairwise) | | `Bit Manipulation` |
+| 297 | [Partition List](./q297_partition_list) |
+| 298 | [Insertion Sort List](./q298_insertion_sort_linked_list) | | `Linked List Insertion Sort` |
+| 299 | [Sort List](./q299_linked_list_merge_sort) | `Needs another Look` | `Linked List Merge Sort` |
 | 300 | [](./q300) |
