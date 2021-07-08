@@ -137,7 +137,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 131 | [First non-repeating character in a stream](./q131_first_non_repeating_character_stream) |
 | 132 | [Rotten Oranges](./q132_rotten_oranges) |
 | 133 | [Left View of Binary Tree](./q133_left_view_binary_tree) |
-| 134 | [Maximum of all subarrays of size k](./q134_maximum_stream_subarray) | | `Dequeue` |
+| 134 | [Maximum of all subarrays of size k](./q134_maximum_stream_subarray) | | `Dequeue` `Sliding Window Maximum` |
 | 135 | [PCM Dilemma](./q135_pcm_dilemma) |
 | 136 | [Memcached Service](./q136_memcached_service) |
 | 137 | [Chef and Laddus For Children](./q137_chef_laddus_children) |
@@ -303,4 +303,24 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 297 | [Partition List](./q297_partition_list) |
 | 298 | [Insertion Sort List](./q298_insertion_sort_linked_list) | | `Linked List Insertion Sort` |
 | 299 | [Sort List](./q299_linked_list_merge_sort) | `Needs another Look` | `Linked List Merge Sort` |
-| 300 | [](./q300) |
+| 300 | [Linked List Cycle](./q300_linked_list_cycle) |
+| 301 | [Reorder List](./q301_reorder_list) |
+| 302 | [Sliding Window Maximum](./q302_sliding_window_maximum) |
+| 303 | [MAXSPPROD](./q303_maximum_special_product) | | `Stack` |
+| 304 | [Nearest Smaller Element](./q304_nearest_smallest_element) |
+| 305 | [Largest Rectangle in Histogram](./q305_largest_rectangle_histogram) | | `Stack` |
+| 306 | [Maximal String](./q306_maximal_string) |
+| 307 | [Gray Code](./q307_gray_code) |
+| 308 | [Kth Permutation Sequence](./q308_k_permutation_sequence) |
+| 309 | [Letter Phone](./q309_letter_phone) |
+| 310 | [](./q310) |
+| 311 | [](./q311) |
+| 312 | [](./q312) |
+| 313 | [](./q313) |
+| 314 | [](./q314) |
+| 315 | [](./q315) |
+| 316 | [](./q316) |
+| 317 | [](./q317) |
+| 318 | [](./q318) |
+| 319 | [](./q319) |
+| 320 | [](./q320) |
