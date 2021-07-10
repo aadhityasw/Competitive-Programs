@@ -313,14 +313,54 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 307 | [Gray Code](./q307_gray_code) |
 | 308 | [Kth Permutation Sequence](./q308_k_permutation_sequence) |
 | 309 | [Letter Phone](./q309_letter_phone) |
-| 310 | [](./q310) |
-| 311 | [](./q311) |
-| 312 | [](./q312) |
-| 313 | [](./q313) |
-| 314 | [](./q314) |
-| 315 | [](./q315) |
-| 316 | [](./q316) |
-| 317 | [](./q317) |
-| 318 | [](./q318) |
-| 319 | [](./q319) |
-| 320 | [](./q320) |
+| 310 | [Palindrome Partitioning](./q310_palindrome_partitioning) |
+| 311 | [Four Sum](./q311_four_number_sum_array) |
+| 312 | [Random Copy List](./q312_linked_list_random_deep_copy) | | `Linked List` |
+| 313 | [Fraction](./q313_fraction) | `Important` | `Cycle Detection in Numbers` |
+| 314 | [Subarray with given XOR](./q314_subarray_with_given_xor) | | `Subarray` `XOR` |
+| 315 | [Subarray with B odd numbers](./q315_fixed_odd_numbers_subarray) |
+| 316 | [Draw Circle](./q316_circle_drawing) | | `Pattern` |
+| 317 | [Non Repeating Numbers](./q317_non_repeating_numbers) | `Important` | `XOR` `Bit Manipulation` |
+| 318 | [First n element XOR](./q318_first_n_numbers_xor) |
+| 319 | [Rearrange Groups in Linked List](./q319_rearrange_groups_linked_list) |
+| 320 | [Minimum Integer Points Required for Path Traversal](./q320_minimum_positive_points_required) |
+| 321 | [Points on the Straight Line](./q321_points_in_straight_line) |
+| 322 | [](./q322) |
+| 323 | [](./q323) |
+| 324 | [](./q324) |
+| 325 | [](./q325) |
+| 326 | [](./q326) |
+| 327 | [](./q327) |
+| 328 | [](./q328) |
+| 329 | [](./q329) |
+| 330 | [](./q330) |
+| 331 | [](./q331) |
+| 332 | [](./q332) |
+| 333 | [](./q333) |
+| 334 | [](./q334) |
+| 335 | [](./q335) |
+| 336 | [](./q336) |
+| 337 | [](./q337) |
+| 338 | [](./q338) |
+| 339 | [](./q339) |
+| 340 | [](./q340) |
+| 341 | [](./q341) |
+| 342 | [](./q342) |
+| 343 | [](./q343) |
+| 344 | [](./q344) |
+| 345 | [](./q345) |
+| 346 | [](./q346) |
+| 347 | [](./q347) |
+| 348 | [](./q348) |
+| 349 | [](./q349) |
+| 350 | [](./q350) |
+| 351 | [](./q351) |
+| 352 | [](./q352) |
+| 353 | [](./q353) |
+| 354 | [](./q354) |
+| 355 | [](./q355) |
+| 356 | [](./q356) |
+| 357 | [](./q357) |
+| 358 | [](./q358) |
+| 359 | [](./q359) |
+| 360 | [](./q360) |

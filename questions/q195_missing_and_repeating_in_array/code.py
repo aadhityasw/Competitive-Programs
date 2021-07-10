@@ -3,8 +3,8 @@
 
 Uses sum of numbers and sub of squares to solve a system of linear equations to derrive the answers.
 
-x -> Missing number
-y -> Repeated number
+y -> Missing number
+x -> Repeated number
 
 S + x = sum of `arr`
 S + y = sum of first `n` natural numbers  =  `n*(n+1)/2`
