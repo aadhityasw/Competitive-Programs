@@ -15,7 +15,7 @@ Visit the [Contributing file](./Contributing.md) regarding the steps to set this
 
 ## List of Questions
 
-Visit the [Readme file](./questions/Readme.md) inside the quesions folder to view the list of all the questions and their completion status, categories, etc.
+Visit the [Readme file](./questions/README.md) inside the quesions folder to view the list of all the questions and their completion status, categories, etc.
 
 
 ## References

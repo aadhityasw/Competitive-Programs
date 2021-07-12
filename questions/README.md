@@ -325,14 +325,14 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 319 | [Rearrange Groups in Linked List](./q319_rearrange_groups_linked_list) |
 | 320 | [Minimum Integer Points Required for Path Traversal](./q320_minimum_positive_points_required) |
 | 321 | [Points on the Straight Line](./q321_points_in_straight_line) |
-| 322 | [](./q322) |
-| 323 | [](./q323) |
-| 324 | [](./q324) |
-| 325 | [](./q325) |
-| 326 | [](./q326) |
-| 327 | [](./q327) |
-| 328 | [](./q328) |
-| 329 | [](./q329) |
+| 322 | [Longest Subarray Length](./q322_longest_subarray_length) | | `Subarray` |
+| 323 | [Subarray with equal occurences](./q323_subarray_with_equal_occurences) | | `Subarray` |
+| 324 | [Longest Increasing Decreasing Subsequence](./q324_longest_increasing_decreasing_subsequence) |
+| 325 | [Smallest sequence with given Primes](./q325_sequence_with_primes) |
+| 326 | [Repeating Sub-Sequence](./q326_repeating_subsequence) |
+| 327 | [Regular Expression Match (Asterix and Question Mark)](./q327_regex_match_asterix_question_mark) | | `Regex Matching Using DP` |
+| 328 | [Maximum Product Subarray](./q328_maximum_product_subarray) | | `Subarray` `Two Pointers` |
+| 329 | [Recover Binary Search Tree](./q329_recover_BST) | `Incomplete` | `Binary Search Tree` `Morris Tree Traversal` |
 | 330 | [](./q330) |
 | 331 | [](./q331) |
 | 332 | [](./q332) |
