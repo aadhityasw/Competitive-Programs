@@ -222,7 +222,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 216 | [Minimum number of jumps](./q216_minimum_number_jumps) |
 | 217 | [Edit Distance](./q217_edit_distance) | | `Edit Distance` `Dynamic Programming` |
 | 218 | [Coin Change](./q218_coin_change) | `New Perspective` | `Dynamic Programming` `Partition table` |
-| 219 | [Partition Equal Subset Sum](./q219_partition_equal_sum_subset) | | `Partition table` |
+| 219 | [Partition Equal Subset Sum](./q219_partition_equal_sum_subset) | | `Partition table` `Dynamic Programming` |
 | 220 | [Smallest Positive missing number](./q220_smallest_positive_missing_number) |
 | 221 | [Box Stacking](./q221_box_stacking) | | `Box Stacking` `Dynamic Programming` |
 | 222 | [Maximize The Cut Segments](./q222_maximize_cut_segments) | | `Dynamic Programming` `Rod Cutting` |
@@ -315,7 +315,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 309 | [Letter Phone](./q309_letter_phone) |
 | 310 | [Palindrome Partitioning](./q310_palindrome_partitioning) |
 | 311 | [Four Sum](./q311_four_number_sum_array) |
-| 312 | [Random Copy List](./q312_linked_list_random_deep_copy) | | `Linked List` |
+| 312 | [Random Copy List](./q312_linked_list_random_deep_copy) | | `Linked List Clone` |
 | 313 | [Fraction](./q313_fraction) | `Important` | `Cycle Detection in Numbers` |
 | 314 | [Subarray with given XOR](./q314_subarray_with_given_xor) | | `Subarray` `XOR` |
 | 315 | [Subarray with B odd numbers](./q315_fixed_odd_numbers_subarray) |
@@ -330,18 +330,18 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 324 | [Longest Increasing Decreasing Subsequence](./q324_longest_increasing_decreasing_subsequence) |
 | 325 | [Smallest sequence with given Primes](./q325_sequence_with_primes) |
 | 326 | [Repeating Sub-Sequence](./q326_repeating_subsequence) |
-| 327 | [Regular Expression Match (Asterix and Question Mark)](./q327_regex_match_asterix_question_mark) | | `Regex Matching Using DP` |
+| 327 | [Regular Expression Match (Asterix and Question Mark)](./q327_regex_match_asterix_question_mark) | `Incomplete` | `Regex Matching Using DP` |
 | 328 | [Maximum Product Subarray](./q328_maximum_product_subarray) | | `Subarray` `Two Pointers` |
 | 329 | [Recover Binary Search Tree](./q329_recover_BST) | `Incomplete` | `Binary Search Tree` `Morris Tree Traversal` |
-| 330 | [](./q330) |
-| 331 | [](./q331) |
-| 332 | [](./q332) |
-| 333 | [](./q333) |
-| 334 | [](./q334) |
-| 335 | [](./q335) |
-| 336 | [](./q336) |
-| 337 | [](./q337) |
-| 338 | [](./q338) |
+| 330 | [Unique Subsets](./q330_unique_subsets) |
+| 331 | [Count pairs in array divisible by K](./q331_pair_count_divisible_by_k) |
+| 332 | [Print Anagrams Together](./q332_anagrams_grouping) |
+| 333 | [Rotate Matrix by 90 degree](./q333_matrix_rotation_90_degrees) |
+| 334 | [Swap Kth nodes from ends Linked List](./q334_linked_list_swap_kth_end_nodes) |
+| 335 | [Check if subtree](./q335_binary_subtree_check) | | `Sub-tree Verification` |
+| 336 | [BST Verification using Preorder Traversal](./q336_bst_preorder_verification) | | `Pre-order Traversal` `Binary Search Tree` |
+| 337 | [Subset Sum Problem](./q337_subset_sum) | | `Subset` `Dynamic Programming` |
+| 338 | [Count of subsets with sum equal to X](./q338_subset_sum_count) |
 | 339 | [](./q339) |
 | 340 | [](./q340) |
 | 341 | [](./q341) |
