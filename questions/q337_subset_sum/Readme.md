@@ -1,8 +1,7 @@
 # Subset Sum Problem
 
 
-https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&page=4&query=category[]Dynamic%20Programmingpage4category[]Dynamic%20Programming#
-
+https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 
 Given an array of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum. 
 

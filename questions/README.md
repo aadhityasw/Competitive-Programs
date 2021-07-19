@@ -221,13 +221,13 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 215 | [Maximum sum increasing subsequence](./q215_maximum_sum_increasing_subsequence) | | `Dynamic Programming` `Increasing Subsequence` |
 | 216 | [Minimum number of jumps](./q216_minimum_number_jumps) |
 | 217 | [Edit Distance](./q217_edit_distance) | | `Edit Distance` `Dynamic Programming` |
-| 218 | [Coin Change](./q218_coin_change) | `New Perspective` | `Dynamic Programming` `Partition table` |
+| 218 | [Coin Change](./q218_coin_change) | `New Perspective` | `Dynamic Programming` `Partition table` `Unbounded Knapsack` |
 | 219 | [Partition Equal Subset Sum](./q219_partition_equal_sum_subset) | | `Partition table` `Dynamic Programming` |
 | 220 | [Smallest Positive missing number](./q220_smallest_positive_missing_number) |
 | 221 | [Box Stacking](./q221_box_stacking) | | `Box Stacking` `Dynamic Programming` |
 | 222 | [Maximize The Cut Segments](./q222_maximize_cut_segments) | | `Dynamic Programming` `Rod Cutting` |
 | 223 | [Maximum path sum in matrix](./q223_maximum_path_sum_matrix) |
-| 224 | [Minimum sum partition](./q224_minimum_sum_partition) | | `Dynamic Programming` |
+| 224 | [Minimum sum partition](./q224_minimum_sum_partition) | `Important` | `Dynamic Programming` |
 | 225 | [Count number of hops](./q225_count_hops) | | `Dynamic Programming` `Simplified DP array` |
 | 226 | [Egg Dropping Puzzle](./q226_egg_dropping) | `Needs Another Look` `New Perspective` | `Dynamic Programming` `Egg Drop` |
 | 227 | [Optimal Strategy For A Game](./q227_optimal_game_strategy) | | `Dynamic Programming` `New Perspective` `Game Strategy` |
@@ -294,7 +294,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 288 | [Stringoholics](./q288_stringoholics) | `Needs another Look` |
 | 289 | [Integer To Roman](./q289_integer_to_roman) |
 | 290 | [Power of 2](./q290_power_of_two) | | `Integer Division using strings` |
-| 291 | [Minimum Characters required to make a String Palindromic](./q291_insert_front_to_form_palindrome) |
+| 291 | [Minimum Characters required to make a String Palindromic](./q291_insert_front_to_form_palindrome) | `Important` |
 | 292 | [Pair With Given Difference](./q292_pair_with_given_difference) |
 | 293 | [3 Sum](./q293_three_number_sum) | | `Tow Pointers` |
 | 294 | [3 Sum Zero](./q294_three_sum_zero) | | `Lookup Table` |
@@ -341,15 +341,15 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 335 | [Check if subtree](./q335_binary_subtree_check) | | `Sub-tree Verification` |
 | 336 | [BST Verification using Preorder Traversal](./q336_bst_preorder_verification) | | `Pre-order Traversal` `Binary Search Tree` |
 | 337 | [Subset Sum Problem](./q337_subset_sum) | | `Subset` `Dynamic Programming` |
-| 338 | [Count of subsets with sum equal to X](./q338_subset_sum_count) |
-| 339 | [](./q339) |
-| 340 | [](./q340) |
-| 341 | [](./q341) |
-| 342 | [](./q342) |
-| 343 | [](./q343) |
-| 344 | [](./q344) |
-| 345 | [](./q345) |
-| 346 | [](./q346) |
+| 338 | [Count of subsets with sum equal to X](./q338_subset_sum_count) | | `Dynamic Programming` |
+| 339 | [Robot at the Fair](./q339_robot_fair) |
+| 340 | [Count Palindrome Sub-Strings of a String](./q340_count_palindromic_substrings) | `Incomplete` | `Dynamic Programming` |
+| 341 | [Boundary Traversal of binary tree](./q341_binary_tree_boundary_traversal) |
+| 342 | [Huffman Encoding](./q342_huffman_encoding) | | `Priority Queue` `Python Custom Heapq` `Huffman Encoding` |
+| 343 | [Total Decoding Messages](./q343_total_decoding_messages) |
+| 344 | [Target Sum](./q344_target_sum) | | `Dynamic Programming` |
+| 345 | [Number of Coins](./q345_minimum_number_of_coins) | | `Dynamic Programming` `Unbounded Knapsack` |
+| 346 | [Split Array With Same Average](./q346_same_average_subset) | `Incomplete` | `Dynamic Programming`|
 | 347 | [](./q347) |
 | 348 | [](./q348) |
 | 349 | [](./q349) |
