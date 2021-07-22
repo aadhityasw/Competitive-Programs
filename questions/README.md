@@ -349,15 +349,15 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 343 | [Total Decoding Messages](./q343_total_decoding_messages) |
 | 344 | [Target Sum](./q344_target_sum) | | `Dynamic Programming` |
 | 345 | [Number of Coins](./q345_minimum_number_of_coins) | | `Dynamic Programming` `Unbounded Knapsack` |
-| 346 | [Split Array With Same Average](./q346_same_average_subset) | `Incomplete` | `Dynamic Programming`|
-| 347 | [](./q347) |
-| 348 | [](./q348) |
-| 349 | [](./q349) |
-| 350 | [](./q350) |
-| 351 | [](./q351) |
-| 352 | [](./q352) |
-| 353 | [](./q353) |
-| 354 | [](./q354) |
+| 346 | [Split Array With Same Average](./q346_same_average_subset) | `Incomplete` | `Dynamic Programming` |
+| 347 | [Thesaurus](./q347_thesaurus) | | `Dynamic Programming` `Permutations` `Math` |
+| 348 | [Number of subsets with product less than k](./q348_count_subset_less_than_specfied_product) | `Partially Incomplete` | `Dynamic Programming` `Meet in the Middle` |
+| 349 | [Rod Cutting without fixed lengths](./q349_rod_cutting_unfixed_lengths) | | `Dynamic Programming` `Rod Cutting` |
+| 350 | [Minimum Cost to Cut a Stick](./q350_minimum_cost_cut_stick) | | `Dynamic Programming` `Rod Cutting` |
+| 351 | [Largest BST Size](./q351_largest_BST_subtree_size) |
+| 352 | [Magic Triplets](./q352_magic_triplets) | | `Two Pointers` |
+| 353 | [Magnet Array Problem](./q353_magnet_array) | | `Divide and Conquer` |
+| 354 | [Water Overflow](./q354_water_overflow) |
 | 355 | [](./q355) |
 | 356 | [](./q356) |
 | 357 | [](./q357) |
