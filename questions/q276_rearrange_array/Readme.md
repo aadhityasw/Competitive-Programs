@@ -3,6 +3,8 @@
 
 https://www.interviewbit.com/problems/rearrange-array/
 
+https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1
+
 
 Rearrange a given array so that Arr[i] becomes Arr[Arr[i]] with O(1) extra space.
 

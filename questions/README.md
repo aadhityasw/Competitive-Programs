@@ -302,7 +302,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 296 | [Different Bits Sum Pairwise](./q296_different_bits_sum_pairwise) | | `Bit Manipulation` |
 | 297 | [Partition List](./q297_partition_list) |
 | 298 | [Insertion Sort List](./q298_insertion_sort_linked_list) | | `Linked List Insertion Sort` |
-| 299 | [Sort List](./q299_linked_list_merge_sort) | `Needs another Look` | `Linked List Merge Sort` |
+| 299 | [Sort List](./q299_linked_list_merge_sort) | | `Linked List Merge Sort` |
 | 300 | [Linked List Cycle](./q300_linked_list_cycle) |
 | 301 | [Reorder List](./q301_reorder_list) |
 | 302 | [Sliding Window Maximum](./q302_sliding_window_maximum) |
@@ -358,9 +358,49 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 352 | [Magic Triplets](./q352_magic_triplets) | | `Two Pointers` |
 | 353 | [Magnet Array Problem](./q353_magnet_array) | | `Divide and Conquer` |
 | 354 | [Water Overflow](./q354_water_overflow) |
-| 355 | [](./q355) |
-| 356 | [](./q356) |
-| 357 | [](./q357) |
-| 358 | [](./q358) |
-| 359 | [](./q359) |
-| 360 | [](./q360) |
+| 355 | [Count number of substrings](./q355_count_number_substrings) | `Needs Another Look` | `Sliding Window` |
+| 356 | [Clone a Binary Tree with Random Pointers](./q356_binary_tree_clone_with_random) |
+| 357 | [Occurences of 2 as a digit](./q357_occurences_of_2_digit) | `Needs Another Look` | `Number Theory` |
+| 358 | [Make Binary Tree From Linked List](./q358_linked_list_to_binary_tree) |
+| 359 | [Construct Tree from Preorder Traversal](./q359_preorder_to_binary_tree) |
+| 360 | [Leaves to DLL](./q360_tree_leaves_to_double_linked_list) |
+| 361 | [Add all greater values to every node in a BST](./q361_add_greater_values_to_bst_nodes) |
+| 362 | [Stock span problem](./q362_stock_span) |
+| 363 | [Kumar and Zoo](./q363_zoo_travel) | `Needs Another Look` |
+| 364 | [UW Connected Galaxies](./q364_uw_galaxies) | `Needs Another Look` | `Graphs` |
+| 365 | [](./q365) |
+| 366 | [](./q366) |
+| 367 | [](./q367) |
+| 368 | [](./q368) |
+| 369 | [](./q369) |
+| 370 | [](./q370) |
+| 371 | [](./q371) |
+| 372 | [](./q372) |
+| 373 | [](./q373) |
+| 374 | [](./q374) |
+| 375 | [](./q375) |
+| 376 | [](./q376) |
+| 377 | [](./q377) |
+| 378 | [](./q378) |
+| 379 | [](./q379) |
+| 380 | [](./q380) |
+| 381 | [](./q381) |
+| 382 | [](./q382) |
+| 383 | [](./q383) |
+| 384 | [](./q384) |
+| 385 | [](./q385) |
+| 386 | [](./q386) |
+| 387 | [](./q387) |
+| 388 | [](./q388) |
+| 389 | [](./q389) |
+| 390 | [](./q390) |
+| 391 | [](./q391) |
+| 392 | [](./q392) |
+| 393 | [](./q393) |
+| 394 | [](./q394) |
+| 395 | [](./q395) |
+| 396 | [](./q396) |
+| 397 | [](./q397) |
+| 398 | [](./q398) |
+| 399 | [](./q399) |
+| 400 | [](./q400) |
