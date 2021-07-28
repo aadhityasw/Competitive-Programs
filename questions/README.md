@@ -227,7 +227,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 221 | [Box Stacking](./q221_box_stacking) | | `Box Stacking` `Dynamic Programming` |
 | 222 | [Maximize The Cut Segments](./q222_maximize_cut_segments) | | `Dynamic Programming` `Rod Cutting` |
 | 223 | [Maximum path sum in matrix](./q223_maximum_path_sum_matrix) |
-| 224 | [Minimum sum partition](./q224_minimum_sum_partition) | `Important` | `Dynamic Programming` |
+| 224 | [Minimum sum partition](./q224_minimum_sum_partition) | | `Important` `Dynamic Programming` |
 | 225 | [Count number of hops](./q225_count_hops) | | `Dynamic Programming` `Simplified DP array` |
 | 226 | [Egg Dropping Puzzle](./q226_egg_dropping) | `Needs Another Look` `New Perspective` | `Dynamic Programming` `Egg Drop` |
 | 227 | [Optimal Strategy For A Game](./q227_optimal_game_strategy) | | `Dynamic Programming` `New Perspective` `Game Strategy` |
@@ -294,7 +294,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 288 | [Stringoholics](./q288_stringoholics) | `Needs another Look` |
 | 289 | [Integer To Roman](./q289_integer_to_roman) |
 | 290 | [Power of 2](./q290_power_of_two) | | `Integer Division using strings` |
-| 291 | [Minimum Characters required to make a String Palindromic](./q291_insert_front_to_form_palindrome) | `Important` |
+| 291 | [Minimum Characters required to make a String Palindromic](./q291_insert_front_to_form_palindrome) | | `Important` |
 | 292 | [Pair With Given Difference](./q292_pair_with_given_difference) |
 | 293 | [3 Sum](./q293_three_number_sum) | | `Tow Pointers` |
 | 294 | [3 Sum Zero](./q294_three_sum_zero) | | `Lookup Table` |
@@ -316,11 +316,11 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 310 | [Palindrome Partitioning](./q310_palindrome_partitioning) |
 | 311 | [Four Sum](./q311_four_number_sum_array) |
 | 312 | [Random Copy List](./q312_linked_list_random_deep_copy) | | `Linked List Clone` |
-| 313 | [Fraction](./q313_fraction) | `Important` | `Cycle Detection in Numbers` |
+| 313 | [Fraction](./q313_fraction) | | `Important` `Cycle Detection in Numbers` |
 | 314 | [Subarray with given XOR](./q314_subarray_with_given_xor) | | `Subarray` `XOR` |
 | 315 | [Subarray with B odd numbers](./q315_fixed_odd_numbers_subarray) |
 | 316 | [Draw Circle](./q316_circle_drawing) | | `Pattern` |
-| 317 | [Non Repeating Numbers](./q317_non_repeating_numbers) | `Important` | `XOR` `Bit Manipulation` |
+| 317 | [Non Repeating Numbers](./q317_non_repeating_numbers) | | `Important` `XOR` `Bit Manipulation` |
 | 318 | [First n element XOR](./q318_first_n_numbers_xor) |
 | 319 | [Rearrange Groups in Linked List](./q319_rearrange_groups_linked_list) |
 | 320 | [Minimum Integer Points Required for Path Traversal](./q320_minimum_positive_points_required) |
@@ -368,17 +368,17 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 362 | [Stock span problem](./q362_stock_span) |
 | 363 | [Kumar and Zoo](./q363_zoo_travel) | `Needs Another Look` |
 | 364 | [UW Connected Galaxies](./q364_uw_galaxies) | `Needs Another Look` | `Graphs` |
-| 365 | [](./q365) |
-| 366 | [](./q366) |
-| 367 | [](./q367) |
-| 368 | [](./q368) |
-| 369 | [](./q369) |
-| 370 | [](./q370) |
-| 371 | [](./q371) |
-| 372 | [](./q372) |
-| 373 | [](./q373) |
-| 374 | [](./q374) |
-| 375 | [](./q375) |
+| 365 | [Majority Element](./q365_majority_element_array) | | `Moore's Voting Algorithm` |
+| 366 | [Copy Set Bits in Range](./q366_copy_set_bits_in_range) | `Bit Manipulation` |
+| 367 | [Longest Increasing Path in a Matrix](./q367_longest_increasing_path_matrix) |
+| 368 | [Maximum sum Rectangle](./q368_maximum_sum_rectangle) | `Partially Incomplete` | `Kadane Algorithm` |
+| 369 | [Capacity To Ship Packages Within D Days](./q369_ship_packages_d_days) | | `Binary Search` |
+| 370 | [Largest subsquare surrounded by X](./q370_largest_subsquare_surrounded_by_x) |
+| 371 | [Best Time to Buy and Sell Stock - Single Transactions](./q371_best_time_buy_sell_stock_single_transaction) |
+| 372 | [Best Time to Buy and Sell Stock II - Multiple Transactions](./q372_best_time_buy_sell_stock_multiple_transactions) |
+| 373 | [Best Time to Buy and Sell Stock III - At most 2 transactions](./q373_best_time_buy_sell_stock_atmost_two_transactions) |
+| 374 | [Best Time to Buy and Sell Stock IV - At most k transactions](./q374_best_time_buy_sell_stock_atmost_k_transactions) | | `Important` |
+| 375 | [Best Time to Buy and Sell Stock with Cooldown](./q375_best_time_buy_sell_stock_with_cooldown) | | `Needs another Look` `State Transitions` |
 | 376 | [](./q376) |
 | 377 | [](./q377) |
 | 378 | [](./q378) |
