@@ -85,7 +85,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 79 | [Subarray with given sum](./q79_subarray_with_given_sum) |
 | 80 | [Count the triplets](./q80_count_triplets) |
 | 81 | [Missing number in array ](./q81_missing_number_array) | | `XOR Manipulation of stream of numbers` |
-| 82 | [Merge Without Extra Space](./q82_merge_without_extra_space) | | `Using Gaps to merge two sorted arrays` |
+| 82 | [Merge Without Extra Space](./q82_merge_without_extra_space) | | `Important` `Using Gaps to merge two sorted arrays` `Calculate number of swaps needed for sorting` |
 | 83 | [Rearrange Array Alternately](./q83_rearrange_array_alternately) | | `Encoding numbers using modulus` |
 | 84 | [Number of pairs](./q84_number_pairs) | | `Python's bisect library` |
 | 85 | [Reverse words in a given string](./q85_reverse_words) |
@@ -201,7 +201,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 195 | [Find Missing And Repeating](./q195_missing_and_repeating_in_array) | | `Math` |
 | 196 | [Activity Selection](./q196_activity_selection) | | `Greedy` |
 | 197 | [Choose and Swap](./q197_choose_and_swap) |
-| 198 | [Page Faults in LRU](./q198_lru_page_faults) | | `LRU Cache` |
+| 198 | [Page Faults in LRU](./q198_lru_page_faults) | | `LRU Cache` `Dequeue` |
 | 199 | [Largest number possible](./q199_largest_number_possible) |
 | 200 | [Minimize the Heights](./q200_minimize_building_height_difference) | `Needs another look` | `Greedy` |
 | 201 | [Huffman Decoding](./q201_huffman_decoding) | | `Huffman Encoding` |
@@ -296,7 +296,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 290 | [Power of 2](./q290_power_of_two) | | `Integer Division using strings` |
 | 291 | [Minimum Characters required to make a String Palindromic](./q291_insert_front_to_form_palindrome) | | `Important` |
 | 292 | [Pair With Given Difference](./q292_pair_with_given_difference) |
-| 293 | [3 Sum](./q293_three_number_sum) | | `Tow Pointers` |
+| 293 | [3 Sum](./q293_three_number_sum) | | `Important` `Two Pointers` |
 | 294 | [3 Sum Zero](./q294_three_sum_zero) | | `Lookup Table` |
 | 295 | [Maximum Ones After Modification](./q295_maximum_ones_after_modification) |
 | 296 | [Different Bits Sum Pairwise](./q296_different_bits_sum_pairwise) | | `Bit Manipulation` |
@@ -379,14 +379,14 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 373 | [Best Time to Buy and Sell Stock III - At most 2 transactions](./q373_best_time_buy_sell_stock_atmost_two_transactions) |
 | 374 | [Best Time to Buy and Sell Stock IV - At most k transactions](./q374_best_time_buy_sell_stock_atmost_k_transactions) | | `Important` |
 | 375 | [Best Time to Buy and Sell Stock with Cooldown](./q375_best_time_buy_sell_stock_with_cooldown) | | `Needs another Look` `State Transitions` |
-| 376 | [](./q376) |
-| 377 | [](./q377) |
-| 378 | [](./q378) |
-| 379 | [](./q379) |
-| 380 | [](./q380) |
-| 381 | [](./q381) |
-| 382 | [](./q382) |
-| 383 | [](./q383) |
+| 376 | [Best Time to Buy and Sell Stock with Transaction Fee](./q376_best_time_buy_sell_stock_with_transaction_fees) | | `State Transitions` |
+| 377 | [Word Search ](./q377_word_search) |
+| 378 | [Beautiful Array](./q378_beautiful_array) | `Needs Another Look` | `Important` `Math` |
+| 379 | [Word Break](./q379_word_break) |
+| 380 | [Maximum Intervals Overlap](./q380_maximum_intervals_overlap) |
+| 381 | [Search in a row-column sorted Matrix](./q381_row_column_sorted_matrix_search) |
+| 382 | [Count of sum of consecutives](./q382_count_of_concecutive_sum) | | `Math` |
+| 383 | [Product Pair](./q383_product_pair) |
 | 384 | [](./q384) |
 | 385 | [](./q385) |
 | 386 | [](./q386) |
