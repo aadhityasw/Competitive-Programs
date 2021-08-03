@@ -387,9 +387,9 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 381 | [Search in a row-column sorted Matrix](./q381_row_column_sorted_matrix_search) |
 | 382 | [Count of sum of consecutives](./q382_count_of_concecutive_sum) | | `Math` |
 | 383 | [Product Pair](./q383_product_pair) |
-| 384 | [](./q384) |
-| 385 | [](./q385) |
-| 386 | [](./q386) |
+| 384 | [Kill Captain America](./q384_kill_captain_america) | `Incomplete` | `Graph` `Topological Sort` |
+| 385 | [Euler circuit and Path](./q385_euler_curcuit_path) | | `Graph` |
+| 386 | [Linked List Polynomial Addition](./q386_linked_list_polynomial_addition) |
 | 387 | [](./q387) |
 | 388 | [](./q388) |
 | 389 | [](./q389) |
