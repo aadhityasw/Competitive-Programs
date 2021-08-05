@@ -29,7 +29,7 @@ int main()
     char stri[100];
     int res = 0;
     cout<<"Enter the expression : ";
-    gets(stri);
+    cin >> stri;
     Stack st(sizeof(stri));
     int i;
     for(i=0;i<strlen(stri);i++)

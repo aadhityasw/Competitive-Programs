@@ -34,7 +34,7 @@ class robotAtTheFair {
 	            {
 	                switch(path[m])
 	                {
-	                    case 'F':if(i>0){i--;}else{s=-1;};break;
+	                    case 'F':if(i>0){i--;}else{s=-1;}break;
 	                    case 'L':dir=4;break;
 	                    case 'R':dir=2;break;
 	                }

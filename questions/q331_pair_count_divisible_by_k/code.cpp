@@ -51,11 +51,7 @@ int main()
 
         Solution ob;
 		cout << ob. countKdivPairs(a, n , k) << "\n";
-
-
-
 	}
-
 
 	return 0;
 }
