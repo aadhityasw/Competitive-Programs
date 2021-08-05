@@ -1,17 +1,18 @@
-FROM ubuntu:latest
+FROM ubuntu:18.04
 
-RUN apt update
-
-RUN apt -y upgrade
+RUN apt-get update
+WORKDIR /
+RUN apt-get -y upgrade
 
 ENV DEBIAN_FRONTEND=noninteractive
 
-RUN apt-get install -y git
-
-RUN apt install -y default-jre
-
-RUN apt install -y default-jdk
-
-RUN apt install -y python3-pip
-
-RUN apt install -y build-essential
+WORKDIR /
+RUN apt-get install -y --no-install-recommends git
+WORKDIR /
+RUN apt-get install -y default-jre
+WORKDIR /
+RUN apt-get install -y default-jdk
+WORKDIR /
+RUN apt-get install -y python3-pip
+WORKDIR /
+RUN apt-get install -y build-essential
