@@ -390,9 +390,9 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 384 | [Kill Captain America](./q384_kill_captain_america) | `Incomplete` | `Graph` `Topological Sort` |
 | 385 | [Euler circuit and Path](./q385_euler_curcuit_path) | | `Graph` |
 | 386 | [Linked List Polynomial Addition](./q386_linked_list_polynomial_addition) |
-| 387 | [](./q387) |
-| 388 | [](./q388) |
-| 389 | [](./q389) |
+| 387 | [Preorder traversal Binary Tree](./q387_binary_tree_preorder_traversal) |
+| 388 | [Inorder Traversal Binary Tree](./q388_binary_tree_inorder_traversal) |
+| 389 | [Postorder Traversal Binary Tree](./q389_binary_tree_postorder_traversal) |
 | 390 | [](./q390) |
 | 391 | [](./q391) |
 | 392 | [](./q392) |

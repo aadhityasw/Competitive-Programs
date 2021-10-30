@@ -13,9 +13,9 @@ No Repository is Perfect, and especially one like this requires frequent updatio
 Visit the [Contributing file](./Contributing.md) regarding the steps to set this repository up on your local machine either directly, or through a Docker Container, so that you can start your awesome work effortlessly.
 
 
-## List of Questions
+## List of **Questions**
 
-Visit the [Readme file](./questions/README.md) inside the quesions folder to view the list of all the questions and their completion status, categories, etc.
+Visit the [Readme file](./questions/README.md) inside the **quesions folder** to view the list of all the questions and their completion status, categories, etc.
 
 
 ## References
