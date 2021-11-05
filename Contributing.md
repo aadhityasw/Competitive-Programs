@@ -1,4 +1,3 @@
-**Coming Soon**
 # Contributing
 
 Before we get started with the technical details, Thank You for taking time to visit here. Whether you are willing to contribute to this repository, or are here to get the setup running on your local machine, this is the right place for that. So lets get started :)
@@ -61,8 +60,68 @@ With the codebase in your computer, the only step left is to run it. So follow t
 
 ### Making your changes
 
+Now that the repository has been set up, you can now use it to make any changes to the repository, add any codes, or even add new questions.
+
+Note : In order to use Github efficiently, study upon the concept of `commits` - a git term, and make sure that you commit as soon as you complete a task. Having small commits is essential for better peer reviews and faster approval of pull requests.
+
+After you have made some changes to the repository, follow the steps to create a commit.
+1. Move over to the `Source Control` tab on the left menu bar. You will notice all the changes you have made listed down and arranged by files.
+2. Now click on `Stage Changes` over all the files that you want to group together into a single commit, say belonging to a single task.
+
+Eg : You are adding a new question say no 111, then you can stage all the files belonging to the `q111_..` folder and the change in the readme file listing this new question onto a single commit.
+
+3. After you have staged all the changes, use the `tick` mark on the same `Source Control` tab which says `Commit` to commit all the changes you have just staged.
+4. Now that you have commited the changes, they are now present on your local system, in order to reflect these changes onto your origin repository online, you would have to `Pull and Push` which can easily be done from vs-code. Click on the `Sync` button on the bottom bar of vs-code in order to perform this.
+
+Note : If you do get any authentication error, then you would not have logged into your github account, do the same before performing this action.
+
+Note : The procedure listed above is the process to be followed using the `VS-Code` code editor, you may choose any code editors or IDE's of your choice, but the place of such options staded above may vary and refer to its documentation for the same.
+
+The above process can also be done using the command line, if you prefer this, then the following commands might serve useful :
+
+* Adding all the changes
+
+```bash
+git add .
+```
+The `.` symbol here is used to add all the changes to the present stage.
+
+
+* Commiting the changes
+
+```bash
+git commit -m <YOUR_MESSAGE>
+```
+
+* Pulling the changes from github. (It is always recommended to do this before pushing, so as to avoid any conflicts)
+
+```bash
+git pull origin master
+```
+
+* Pushing the changes to main branch in origin
+
+```bash
+git push -u origin master
+```
+
+Refer to this [web page](https://www.datacamp.com/community/tutorials/git-push-pull) for a better understanding of these commands.
 
 
 ### Raising your Pull Request
 
-More Coming Soon :)
+Once your changes have been reflicted on the main branch in the origin, the only thing left is to get those changes reflected on the main repository. Follow the steps below to do just the same.
+
+1. Head over to your forked version of the repository using your browser.
+2. You will notice an option there to raise a `Pull Request`. Use this option to raise one.
+3. Fill in the name of the PR, and leave some comments of your choice in the appropriate fields.
+4. Raise a PR in this manner. Once you have done so, I will then review them and accept these changes which will then be reflected on the parent repository managed by @aadhityasw.
+5. In case there are any changes required, I will mention them as comments in the same PR, which can be solved by you in the same manner - making the changes, commiting them onto the main branch which will be reflected in the PR as well.
+
+
+---
+
+
+## Final Note
+
+Thank you for considering to contribute to this repository.
