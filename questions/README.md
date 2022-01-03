@@ -393,9 +393,9 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 387 | [Preorder traversal Binary Tree](./q387_binary_tree_preorder_traversal) |
 | 388 | [Inorder Traversal Binary Tree](./q388_binary_tree_inorder_traversal) |
 | 389 | [Postorder Traversal Binary Tree](./q389_binary_tree_postorder_traversal) |
-| 390 | [](./q390) |
-| 391 | [](./q391) |
-| 392 | [](./q392) |
+| 390 | [Time in Heaven](./q390_time_in_heaven) | `Incomplete` |
+| 391 | [Minor DNAs](./q391_minor_dna) | `Incomplete` |
+| 392 | [Elections](./q392_elections) |
 | 393 | [](./q393) |
 | 394 | [](./q394) |
 | 395 | [](./q395) |
