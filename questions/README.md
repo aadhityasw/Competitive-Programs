@@ -396,9 +396,9 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 390 | [Time in Heaven](./q390_time_in_heaven) | `Incomplete` |
 | 391 | [Minor DNAs](./q391_minor_dna) | `Incomplete` |
 | 392 | [Elections](./q392_elections) |
-| 393 | [](./q393) |
-| 394 | [](./q394) |
-| 395 | [](./q395) |
+| 393 | [H index](./q393_h_index) | | `Tree` |
+| 394 | [Gas Station](./q394_gas_station) | | `Array` |
+| 395 | [Candy Distribution](./q395_candy_distribution) | | `Array` `Greedy` |
 | 396 | [](./q396) |
 | 397 | [](./q397) |
 | 398 | [](./q398) |
