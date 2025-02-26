@@ -2,6 +2,8 @@
 
 https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
 
+https://leetcode.com/problems/spiral-matrix/
+
 
 Given a matrix of size R*C. Traverse the matrix in spiral form.
 

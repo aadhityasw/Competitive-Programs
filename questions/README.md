@@ -336,7 +336,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 330 | [Unique Subsets](./q330_unique_subsets) |
 | 331 | [Count pairs in array divisible by K](./q331_pair_count_divisible_by_k) |
 | 332 | [Print Anagrams Together](./q332_anagrams_grouping) |
-| 333 | [Rotate Matrix by 90 degree](./q333_matrix_rotation_90_degrees) |
+| 333 | [Rotate Positive Matrix by 90 degree left](./q333_positive_matrix_rotation_90_degrees_left) | | `Encoding` `Matrix` |
 | 334 | [Swap Kth nodes from ends Linked List](./q334_linked_list_swap_kth_end_nodes) |
 | 335 | [Check if subtree](./q335_binary_subtree_check) | | `Sub-tree Verification` |
 | 336 | [BST Verification using Preorder Traversal](./q336_bst_preorder_verification) | | `Pre-order Traversal` `Binary Search Tree` |
@@ -398,9 +398,19 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 392 | [Elections](./q392_elections) |
 | 393 | [H index](./q393_h_index) | | `Tree` |
 | 394 | [Gas Station](./q394_gas_station) | | `Array` |
-| 395 | [Candy Distribution](./q395_candy_distribution) | | `Array` `Greedy` |
-| 396 | [](./q396) |
-| 397 | [](./q397) |
-| 398 | [](./q398) |
-| 399 | [](./q399) |
-| 400 | [](./q400) |
+| 395 | [Candy Distribution](./q395_candy_distribution) | | `Array` `Greedy` `Dual Traversal` |
+| 396 | [Trapping Rain Water 2D](./q396_trapping_rain_water_2d) | | `Array` `Matrix` `Graph` |
+| 397 | [Text Justification](./q397_text_justification) | | `String` |
+| 398 | [Rotate Matrix by 90 degrees right](./q398_matrix_rotation_90_degrees_right) | | `Matrix` `Encoding` |
+| 399 | [Tuple with Same Product](./q399_array_same_product_tuples) | | `Counting` |
+| 400 | [Substring with Concatenation of All Words](./q400_substring_concatenation_words_same_length) | | `String` `Sliding Window` |
+| 401 | [Separate Squares](./q401_separate_squares_area) | | `Binary Search` |
+| 402 | [Reschedule Meetings for Maximum Free Time I](./q402_reschedule_meetings_maximize_free_time) |
+| 403 | [Meeting Scheduler](./q403_meeting_scheduler_non_overlapping) |
+| 404 | [Reschedule Meetings for Maximum Free Time II](./q404_reschedule_meetings_maximize_free_time_ii) |
+| 405 | [Coin Change II](./q405_coin_change_num_permutations) |
+| 406 | [](./q406) |
+| 407 | [](./q407) |
+| 408 | [](./q408) |
+| 409 | [](./q409) |
+| 410 | [](./q410) |
