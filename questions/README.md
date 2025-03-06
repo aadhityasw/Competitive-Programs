@@ -247,7 +247,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 241 | [Cross the Buildings](./q241_cross_buildings) |
 | 242 | [Happiest Class](./q242_happiest_class) |
 | 243 | [Maching Sets](./q243_matching_sets) |
-| 244 | [Course Registration](./q244_course_registration) |
+| 244 | [Course Registration](./q244_course_registration) | | `Kahn's Algorithm` |
 | 245 | [Quick Sort](./q245_quick_sort) | | `Quick Sort` |
 | 246 | [Generate IP Addresses](./q246_generate_ip_address) |
 | 247 | [Word Boggle](./q247_word_boggle) | | `Backtracking` `Trie` |
@@ -409,8 +409,48 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 403 | [Meeting Scheduler](./q403_meeting_scheduler_non_overlapping) |
 | 404 | [Reschedule Meetings for Maximum Free Time II](./q404_reschedule_meetings_maximize_free_time_ii) |
 | 405 | [Coin Change II](./q405_coin_change_num_permutations) |
-| 406 | [](./q406) |
-| 407 | [](./q407) |
-| 408 | [](./q408) |
-| 409 | [](./q409) |
-| 410 | [](./q410) |
+| 406 | [Maximal Square](./q406_maximal_square) | | `matrix` |
+| 407 | [Recover a Tree From Preorder Traversal](./q407_string_parse_preorder_traversal_tree_recovery) |
+| 408 | [Design a Number Container System](./q408_design_number_container_system_constant_time_search) |
+| 409 | [Maximum Sum Subarray with negative numbers](./q409_maximum_sum_subarray_with_negative_numbers) | `Incomplete` | `Kandane` |
+| 410 | [Number of Islands in 4 Direction](./q410_number_of_islands_4_directional) |
+| 411 | [Clone Undirected Graph](./q411_clone_undirected_graph) |
+| 412 | [Pacific Atlantic Water Flow](./q412_pacific_atlantic_water_flow) | | `matrix` |
+| 413 | [Course Schedule II](./q413_course_schedule_2) | | `Graph` |
+| 414 | [Course Schedule III](./q414_course_schedule_3) | | `Greedy` |
+| 415 | [Graph Valid Tree](./q415_graph_valid_tree) | | `Graph` `Sets` `Union Find` |
+| 416 | [Number of Connected Components in an Undirected Graph](./q416_count_connected_components_undirected_graph) | | `Graph` `Union Find` |
+| 417 | [Paths in Maze That Lead to Same Room](./q417_paths_in_maze_same_room_cycle_detection) | | `Graph` `Count Fixed Length Cycles` `Set Intersection` |
+| 418 | [Generate Parentheses](./q418_generate_parentheses) |
+| 419 | [Count Number of Bad Pairs](./q419_count_bad_pairs) |
+| 420 | [Next Permutation](./q420_next_permutation) |
+| 421 | [Product of the Last K Numbers](./q421_product_last_k_numbers_stream) | | `Stream` |
+| 422 | [Implement Trie (Prefix Tree)](./q422_implement_trie) | | `Trie` |
+| 423 | [](./q423) |
+| 424 | [](./q424) |
+| 425 | [](./q425) |
+| 426 | [](./q426) |
+| 427 | [](./q427) |
+| 428 | [](./q428) |
+| 429 | [](./q429) |
+| 430 | [](./q430) |
+| 431 | [](./q431) |
+| 432 | [](./q432) |
+| 433 | [](./q433) |
+| 434 | [](./q434) |
+| 435 | [](./q435) |
+| 436 | [](./q436) |
+| 437 | [](./q437) |
+| 438 | [](./q438) |
+| 439 | [](./q439) |
+| 440 | [](./q440) |
+| 441 | [](./q441) |
+| 442 | [](./q442) |
+| 443 | [](./q443) |
+| 444 | [](./q444) |
+| 445 | [](./q445) |
+| 446 | [](./q446) |
+| 447 | [](./q447) |
+| 448 | [](./q448) |
+| 449 | [](./q449) |
+| 450 | [](./q450) |

@@ -37,3 +37,14 @@ Output
 
 6 5 3 4 2 1
 IMPOSSIBLE!
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+Leetcode Version - https://leetcode.com/problems/course-schedule/
+
+Leetcode 207

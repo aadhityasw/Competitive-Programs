@@ -4,6 +4,9 @@
 https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1#
 
 
+Leetcode - 33 : https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+
 Given a sorted and rotated array A of N distinct elements which is rotated at some point, and given an element key. The task is to find the index of the given element key in the array A.
 
 Example 1:
