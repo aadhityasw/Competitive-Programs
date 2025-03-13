@@ -281,7 +281,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 275 | [Next Similar Number](./q275_next_similar_number) | | `Number Arrangement` |
 | 276 | [Rearrange Array](./q276_rearrange_array) | | `Number Encoding` |
 | 277 | [Numbers of length N and value less than K](./q277_n_digit_number_less_than_k) | `Partially Incomplete` `Needs another Look` | `Dynamic Programming` |
-| 278 | [Square Root of Integer](./q278_square_root_integer) |
+| 278 | [Square Root of Integer](./q278_square_root_integer) | | `Binary Search` |
 | 279 | [Power Function](./q279_power_integer) | | `Square and Multiply` |
 | 280 | [WoodCutting Made Easy](./q280_easy_woodcutting) | | `Binary Search` |
 | 281 | [Matrix Median](./q281_matrix_median) | | `Binary Search` | `Binary Search Application` `Find insert position using Binary Search` |
@@ -380,7 +380,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 374 | [Best Time to Buy and Sell Stock IV - At most k transactions](./q374_best_time_buy_sell_stock_atmost_k_transactions) | | `Important` |
 | 375 | [Best Time to Buy and Sell Stock with Cooldown](./q375_best_time_buy_sell_stock_with_cooldown) | | `Needs another Look` `State Transitions` |
 | 376 | [Best Time to Buy and Sell Stock with Transaction Fee](./q376_best_time_buy_sell_stock_with_transaction_fees) | | `State Transitions` |
-| 377 | [Word Search ](./q377_word_search) |
+| 377 | [Word Search](./q377_word_search) |
 | 378 | [Beautiful Array](./q378_beautiful_array) | `Needs Another Look` | `Important` `Math` |
 | 379 | [Word Break](./q379_word_break) |
 | 380 | [Maximum Intervals Overlap](./q380_maximum_intervals_overlap) |
@@ -426,23 +426,23 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 420 | [Next Permutation](./q420_next_permutation) |
 | 421 | [Product of the Last K Numbers](./q421_product_last_k_numbers_stream) | | `Stream` |
 | 422 | [Implement Trie (Prefix Tree)](./q422_implement_trie) | | `Trie` |
-| 423 | [](./q423) |
-| 424 | [](./q424) |
-| 425 | [](./q425) |
-| 426 | [](./q426) |
-| 427 | [](./q427) |
-| 428 | [](./q428) |
-| 429 | [](./q429) |
-| 430 | [](./q430) |
-| 431 | [](./q431) |
-| 432 | [](./q432) |
-| 433 | [](./q433) |
-| 434 | [](./q434) |
-| 435 | [](./q435) |
-| 436 | [](./q436) |
-| 437 | [](./q437) |
-| 438 | [](./q438) |
-| 439 | [](./q439) |
+| 423 | [Word Search II](./q423_word_search_ii) | | `Trie` `DFS` `Matrix` |
+| 424 | [Merge Intervals](./q424_merge_intervals) | | `Intervals` |
+| 425 | [Minimize Connected Groups by Inserting Interval](./q425_minimize_connected_groups_insert_interval) | | `Intervals` |
+| 426 | [Meeting Rooms](./q426_meeting_rooms) | | `Intervals` |
+| 427 | [Meeting Rooms II](./q427_meeting_rooms_ii) | | `Intervals` |
+| 428 | [Meeting Rooms III](./q428_meeting_rooms_iii) | | `Intervals` |
+| 429 | [Nim Game](./q429_nim_game) | | `Game Theory` `Math` |
+| 430 | [Flip Game II](./q430_flip_game_ii) | `Incomplete` | `Game Theory` `Dynamic Programming` `Backtracking` |
+| 431 | [Climbing Stairs](./q431_climbing_stairs) | | `Combinatorics` `Dynamic Programming` `Math` |
+| 432 | [House Robber](./q432_house_robber) |
+| 433 | [House Robber II](./q433_house_robber_ii) |
+| 434 | [House Robber III](./q434_house_robber_iii) |
+| 435 | [House Robber IV](./q435_house_robber_iv) | | `Binary Search` |
+| 436 | [Find Local Peak Element](./q436_find_local_peak_array) | | `Binary Search` |
+| 437 | [Find Minimum in Rotated Sorted Array](./q437_find_minimum_rotated_sorted_array) | | `Binary Search` |
+| 438 | [Find First and Last Position of Element in Sorted Array](./q438_find_range_of_element_in_sorted_array) | | `Binary Search` |
+| 439 | [Find K Closest Elements](./q439_find_k_closest_elements_array) | | `Binary Search` |
 | 440 | [](./q440) |
 | 441 | [](./q441) |
 | 442 | [](./q442) |

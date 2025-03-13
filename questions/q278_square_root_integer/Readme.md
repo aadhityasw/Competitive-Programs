@@ -2,6 +2,8 @@
 
 https://www.interviewbit.com/problems/square-root-of-integer/
 
+Leetcode 69   - https://leetcode.com/problems/sqrtx/description/
+
 
 Given an integar A.
 
