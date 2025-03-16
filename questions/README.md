@@ -443,14 +443,64 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 437 | [Find Minimum in Rotated Sorted Array](./q437_find_minimum_rotated_sorted_array) | | `Binary Search` |
 | 438 | [Find First and Last Position of Element in Sorted Array](./q438_find_range_of_element_in_sorted_array) | | `Binary Search` |
 | 439 | [Find K Closest Elements](./q439_find_k_closest_elements_array) | | `Binary Search` |
-| 440 | [](./q440) |
-| 441 | [](./q441) |
-| 442 | [](./q442) |
-| 443 | [](./q443) |
-| 444 | [](./q444) |
-| 445 | [](./q445) |
-| 446 | [](./q446) |
-| 447 | [](./q447) |
-| 448 | [](./q448) |
-| 449 | [](./q449) |
-| 450 | [](./q450) |
+| 440 | [Closest Binary Search Tree Value](./q440_closest_binary_search_tree_value) |
+| 441 | [Search in a Sorted Array of Unknown Size](./q441_search_sorted_array_unknown_size) | | `Binary Search` |
+| 442 | [Pow(x, n)](./q442_integer_power) | | `Binary Search` |
+| 443 | [Find Minimum in Rotated Sorted Array II](./q443_find_minimum_rotated_sorted_array_with_duplicates) | | `Binary Search` |
+| 444 | [Find the Duplicate Number](./q444_find_duplicate_number_fixed_range_array) | | `Bit Manipulation` |
+| 445 | [License Key Formatting](./q445_license_key_formatting) |
+| 446 | [Fruit Into Baskets](./q446_fruit_into_basket) | | `Sliding Window` |
+| 447 | [Odd Even Jump](./q447_odd_even_jump) | `Incomplete` |
+| 448 | [Jump Game](./q448_jump_game) | | `Sliding Window` |
+| 449 | [Jump Game II](./q449_jump_game_ii) | | `Sliding Window` |
+| 450 | [Jump Game III](./q450_jump_game_iii) | | `BFS` |
+| 451 | [Jump Game VII](./q451_jump_game_vii) | | `Sliding Window` `Dynamic Programming` |
+| 452 | [Jump Game VIII](./q452_jump_game_viii) | | `Dynamic Programming` |
+| 453 | [Jump Game VI](./q453_jump_game_vi) | | `Dynamic Programming` `Heaps` `Dequeue` |
+| 454 | [Jump Game IV](./q454_jump_game_iv) | | `Dynamic Programming` `BFS` |
+| 455 | [Jump Game V](./q455_jump_game_v) | | `DFS` `Dynamic Programming` |
+| 456 | [Linked List Cycle II](./q456_linked_list_get_cycle_start) |
+| 457 | [](./q457) |
+| 458 | [](./q458) |
+| 459 | [](./q459) |
+| 460 | [](./q460) |
+| 461 | [](./q461) |
+| 462 | [](./q462) |
+| 463 | [](./q463) |
+| 464 | [](./q464) |
+| 465 | [](./q465) |
+| 466 | [](./q466) |
+| 467 | [](./q467) |
+| 468 | [](./q468) |
+| 469 | [](./q469) |
+| 470 | [](./q470) |
+| 471 | [](./q471) |
+| 472 | [](./q472) |
+| 473 | [](./q473) |
+| 474 | [](./q474) |
+| 475 | [](./q475) |
+| 476 | [](./q476) |
+| 477 | [](./q477) |
+| 478 | [](./q478) |
+| 479 | [](./q479) |
+| 480 | [](./q480) |
+| 481 | [](./q481) |
+| 482 | [](./q482) |
+| 483 | [](./q483) |
+| 484 | [](./q484) |
+| 485 | [](./q485) |
+| 486 | [](./q486) |
+| 487 | [](./q487) |
+| 488 | [](./q488) |
+| 489 | [](./q489) |
+| 490 | [](./q490) |
+| 491 | [](./q491) |
+| 492 | [](./q492) |
+| 493 | [](./q493) |
+| 494 | [](./q494) |
+| 495 | [](./q495) |
+| 496 | [](./q496) |
+| 497 | [](./q497) |
+| 498 | [](./q498) |
+| 499 | [](./q499) |
+| 500 | [](./q500) |
