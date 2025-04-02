@@ -460,15 +460,15 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 454 | [Jump Game IV](./q454_jump_game_iv) | | `Dynamic Programming` `BFS` |
 | 455 | [Jump Game V](./q455_jump_game_v) | | `DFS` `Dynamic Programming` |
 | 456 | [Linked List Cycle II](./q456_linked_list_get_cycle_start) |
-| 457 | [](./q457) |
-| 458 | [](./q458) |
-| 459 | [](./q459) |
-| 460 | [](./q460) |
-| 461 | [](./q461) |
-| 462 | [](./q462) |
-| 463 | [](./q463) |
-| 464 | [](./q464) |
-| 465 | [](./q465) |
+| 457 | [Next Greater Element I](./q457_next_greater_element_i) |
+| 458 | [Next Greater Element II](./q458_next_greater_element_ii) |
+| 459 | [Next Greater Element III](./q459_next_greater_element_iii) |
+| 460 | [Moving Average from Data Stream](./q460_moving_average_data_stream) |
+| 461 | [Binary Tree Vertical Order Traversal](./q461_binary_tree_vertical_order_traversal) |
+| 462 | [Binary Tree Right Side View](./q462_binary_tree_right_side_view) |
+| 463 | [Russian Doll Envelopes](./q463_russian_doll_envelopes) | | `Longest Increasing Subsequence` |
+| 464 | [Unique Length-3 Palindromic Subsequences](./q464_unique_length_3_palindromic_subsequences) |
+| 465 | [Reorganize String](./q465_reorganize_string) |
 | 466 | [](./q466) |
 | 467 | [](./q467) |
 | 468 | [](./q468) |

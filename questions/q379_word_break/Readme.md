@@ -3,6 +3,8 @@
 
 https://practice.geeksforgeeks.org/problems/word-break1352/1
 
+https://leetcode.com/problems/word-break/description/
+
 
 Given a string A and a dictionary of n words B, find out if A can be segmented into a space-separated sequence of dictionary words.
 
