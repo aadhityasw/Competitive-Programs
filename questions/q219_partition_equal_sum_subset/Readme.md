@@ -3,6 +3,8 @@
 
 https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
 
+Leetcode 416 : https://leetcode.com/problems/partition-equal-subset-sum/description/
+
 
 
 Given an array arr[] of size N, check if it can be partitioned into two parts such that the sum of elements in both parts is the same.

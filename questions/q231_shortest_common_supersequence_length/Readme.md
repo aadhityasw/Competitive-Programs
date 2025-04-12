@@ -1,4 +1,4 @@
-# Shortest Common Supersequence
+# Shortest Common Supersequence Length
 
 
 https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1

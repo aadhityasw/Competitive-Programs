@@ -5,6 +5,11 @@
 https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1
 
 
+https://leetcode.com/problems/longest-common-subsequence/description/
+
+Leetcode 1143
+
+
 Given two sequences, find the length of longest subsequence present in both of them. Both the strings are of uppercase.
 
 Example 1:

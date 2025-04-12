@@ -234,7 +234,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 228 | [Most frequent word in an array of strings](./q228_most_frequent_word) |
 | 229 | [CamelCase Pattern Matching](./q229_camel_case_pattern_matching) | | `Trie` |
 | 230 | [String Ignorance](./q230_string_ignorance) |
-| 231 | [Shortest Common Supersequence](./q231_shortest_common_supersequence) |
+| 231 | [Shortest Common Supersequence Length](./q231_shortest_common_supersequence_length) | | `Dynamic Programming` |
 | 232 | [Design a tiny URL or URL shortener ](./q232_tiny_url_decoder) |
 | 233 | [Find the element that appears once in sorted array](./q233_single_occuring_element_in_sorted_array) |
 | 234 | [Search in a Rotated Array](./q234_binary_search_rotated_array) |
@@ -469,20 +469,20 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 463 | [Russian Doll Envelopes](./q463_russian_doll_envelopes) | | `Longest Increasing Subsequence` |
 | 464 | [Unique Length-3 Palindromic Subsequences](./q464_unique_length_3_palindromic_subsequences) |
 | 465 | [Reorganize String](./q465_reorganize_string) |
-| 466 | [](./q466) |
-| 467 | [](./q467) |
-| 468 | [](./q468) |
-| 469 | [](./q469) |
-| 470 | [](./q470) |
-| 471 | [](./q471) |
-| 472 | [](./q472) |
-| 473 | [](./q473) |
-| 474 | [](./q474) |
-| 475 | [](./q475) |
-| 476 | [](./q476) |
-| 477 | [](./q477) |
-| 478 | [](./q478) |
-| 479 | [](./q479) |
+| 466 | [Three Sum Closest](./q466_three_sum_closest) |
+| 467 | [Single Element in a Sorted Array](./q467_single_element_in_sorted_array) |
+| 468 | [Counting Bits](./q468_counting_bits) | | `Bit Patterns` |
+| 469 | [Geek's Training](./q469_geeks_training) |
+| 470 | [Unique Paths](./q470_unique_paths) |
+| 471 | [Unique Paths II](./q471_unique_paths_ii) |
+| 472 | [Minimum Path Sum](./q472_minimum_path_sum) |
+| 473 | [Partition Array Into Two Arrays to Minimize Sum Difference](./q473_partition_array_minimize_sum_difference) | | `Meet in the middle` `Subset Enumeration` `Bitmask Enumeration` |
+| 474 | [Perfect Sum Problem](./q474_perfect_sum_problem) | | `Dynamic Programming` |
+| 475 | [Partitions with Given Difference](./q475_partitions_with_given_difference) | | `Dynamic Programming` |
+| 476 | [Maximum Matching of Players With Trainers](./q476_maximum_matching_players_trainers) |
+| 477 | [Longest Palindromic Subsequence](./q477_longest_palindromic_subsequence) | | `Dynamic Programming` |
+| 478 | [Shortest Common Supersequence Word](./q478_shortest_common_supersequence_word) | | `Dynamic Programming` |
+| 479 | [Distinct Subsequences](./q479_distinct_subsequences) | | `Dynamic Programming` |
 | 480 | [](./q480) |
 | 481 | [](./q481) |
 | 482 | [](./q482) |

@@ -5,6 +5,12 @@ https://practice.geeksforgeeks.org/problems/form-a-palindrome/0
 
 
 
+Leetcode 1312. Minimum Insertion Steps to Make a String Palindrome
+
+https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/
+
+
+
 
 Given a string, find the minimum number of characters to be inserted to convert it to palindrome.
 For Example:
