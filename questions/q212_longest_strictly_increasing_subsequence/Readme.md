@@ -4,6 +4,11 @@
 https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
 
 
+Leetcode 300
+
+https://leetcode.com/problems/longest-increasing-subsequence/
+
+
 Given an array of integers, find the length of the longest (strictly) increasing subsequence from the given array.
 
 Example 1:

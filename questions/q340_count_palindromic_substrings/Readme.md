@@ -1,34 +1,33 @@
 # Count Palindrome Sub-Strings of a String
 
 
-https://practice.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string0652/1/
+Leetcode 647. Palindromic Substrings
+
+https://leetcode.com/problems/palindromic-substrings/description/
 
 
 
-Given a string, the task is to count all palindromic sub-strings present in it.
+Given a string s, return the number of palindromic substrings in it.
 
-Example
+A string is a palindrome when it reads the same backward as forward.
 
-Input
-N = 5
-str = "abaab"
-Output
-3
-Explanation:
-All palindrome substring are : "aba" , "aa" , "baab"
-Example
+A substring is a contiguous sequence of characters within the string.
 
-Input
-N = 7
-str = "abbaeae"
-Output
-4
-Explanation:
-All palindrome substring are : "bb" , "abba" ,"aea",
-"eae"
-Expected Time Complexity : O(|S|^2)
-Expected Auxilliary Space : O(|S|^2)
+ 
+
+Example 1:
+
+Input: s = "abc"
+Output: 3
+Explanation: Three palindromic strings: "a", "b", "c".
+Example 2:
+
+Input: s = "aaa"
+Output: 6
+Explanation: Six palindromic strings: "a", "a", "a", "aa", "aa", "aaa".
+ 
 
 Constraints:
 
-2<=|S|<=500
+1 <= s.length <= 1000
+s consists of lowercase English letters.

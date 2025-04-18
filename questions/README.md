@@ -330,7 +330,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 324 | [Longest Increasing Decreasing Subsequence](./q324_longest_increasing_decreasing_subsequence) |
 | 325 | [Smallest sequence with given Primes](./q325_sequence_with_primes) |
 | 326 | [Repeating Sub-Sequence](./q326_repeating_subsequence) |
-| 327 | [Regular Expression Match (Asterix and Question Mark)](./q327_regex_match_asterix_question_mark) | `Incomplete` | `Regex Matching Using DP` |
+| 327 | [Regular Expression Match (Asterix and Question Mark)](./q327_regex_match_asterix_question_mark) | | `Regex Matching Using DP` `Dynamic Programming` |
 | 328 | [Maximum Product Subarray](./q328_maximum_product_subarray) | | `Subarray` `Two Pointers` |
 | 329 | [Recover Binary Search Tree](./q329_recover_BST) | `Incomplete` | `Binary Search Tree` `Morris Tree Traversal` |
 | 330 | [Unique Subsets](./q330_unique_subsets) |
@@ -343,7 +343,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 337 | [Subset Sum Problem](./q337_subset_sum) | | `Subset` `Dynamic Programming` |
 | 338 | [Count of subsets with sum equal to X](./q338_subset_sum_count) | | `Dynamic Programming` |
 | 339 | [Robot at the Fair](./q339_robot_fair) |
-| 340 | [Count Palindrome Sub-Strings of a String](./q340_count_palindromic_substrings) | `Incomplete` | `Dynamic Programming` |
+| 340 | [Count Palindrome Sub-Strings of a String](./q340_count_palindromic_substrings) | | `Dynamic Programming` `Strings` |
 | 341 | [Boundary Traversal of binary tree](./q341_binary_tree_boundary_traversal) |
 | 342 | [Huffman Encoding](./q342_huffman_encoding) | | `Priority Queue` `Python Custom Heapq` `Huffman Encoding` |
 | 343 | [Total Decoding Messages](./q343_total_decoding_messages) |
@@ -397,7 +397,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 391 | [Minor DNAs](./q391_minor_dna) | `Incomplete` |
 | 392 | [Elections](./q392_elections) |
 | 393 | [H index](./q393_h_index) | | `Tree` |
-| 394 | [Gas Station](./q394_gas_station) | | `Array` |
+| 394 | [Gas Station](./q394_gas_station) | | `Array` `Greedy` |
 | 395 | [Candy Distribution](./q395_candy_distribution) | | `Array` `Greedy` `Dual Traversal` |
 | 396 | [Trapping Rain Water 2D](./q396_trapping_rain_water_2d) | | `Array` `Matrix` `Graph` |
 | 397 | [Text Justification](./q397_text_justification) | | `String` |
@@ -483,21 +483,21 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 477 | [Longest Palindromic Subsequence](./q477_longest_palindromic_subsequence) | | `Dynamic Programming` |
 | 478 | [Shortest Common Supersequence Word](./q478_shortest_common_supersequence_word) | | `Dynamic Programming` |
 | 479 | [Distinct Subsequences](./q479_distinct_subsequences) | | `Dynamic Programming` |
-| 480 | [](./q480) |
-| 481 | [](./q481) |
-| 482 | [](./q482) |
-| 483 | [](./q483) |
-| 484 | [](./q484) |
-| 485 | [](./q485) |
-| 486 | [](./q486) |
-| 487 | [](./q487) |
-| 488 | [](./q488) |
-| 489 | [](./q489) |
-| 490 | [](./q490) |
-| 491 | [](./q491) |
-| 492 | [](./q492) |
-| 493 | [](./q493) |
-| 494 | [](./q494) |
+| 480 | [Largest Divisible Subset](./q480_largest_divisible_subset) | | `Longest Increasing Subsequence` |
+| 481 | [Longest String Chain](./q481_longest_string_chain) | | `Strings` `Longest Increasing Subsequence` |
+| 482 | [Maximal Rectangle Area](./q482_maximal_rectangle_area) | | `Matrix` |
+| 483 | [Count Square Submatrices with All Ones](./q483_count_square_submatrices_all_ones) | | `Matrix` |
+| 484 | [Palindrome Partitioning II](./q484_palindrome_partitioning_ii) | `Strings` |
+| 485 | [Interleaving String](./q485_interleaving_string) | | `Dynamic Programming` `Strings` |
+| 486 | [Queue Reconstruction by Height](./q486_queue_reconstruction_by_height) | | `Needs another look` | |
+| 487 | [Next Smallest Palindrome](./q487_next_smallest_palindrome) | | `Pattern Recognition` |
+| 488 | [Split Array Largest Sum](./q488_split_array_largest_sum) | | `Binary Search` |
+| 489 | [N/3 Repeat Number](./q489_n_by_3_repeat_number) | | `Counting` `Voting` `Array` |
+| 490 | [Remove K Digits](./q490_remove_k_digits) | | `Monotonic Stack` |
+| 491 | [Create Maximum Number](./q491_create_maximum_number) | | `Greedy` `Monotonic Stack` |
+| 492 | [Stream of Characters](./q492_stream_of_characters) | | `Trie` |
+| 493 | [Group Anagrams](./q493_group_anagrams) |
+| 494 | [Binary Tree Maximum Path Sum](./q494_binary_tree_maximum_path_sum) |
 | 495 | [](./q495) |
 | 496 | [](./q496) |
 | 497 | [](./q497) |
