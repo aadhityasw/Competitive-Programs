@@ -498,9 +498,59 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 492 | [Stream of Characters](./q492_stream_of_characters) | | `Trie` |
 | 493 | [Group Anagrams](./q493_group_anagrams) |
 | 494 | [Binary Tree Maximum Path Sum](./q494_binary_tree_maximum_path_sum) |
-| 495 | [](./q495) |
-| 496 | [](./q496) |
-| 497 | [](./q497) |
-| 498 | [](./q498) |
-| 499 | [](./q499) |
-| 500 | [](./q500) |
+| 495 | [Zero Array Transformation I](./q495_zero_array_transformation_i) | `New Perspective` | `Array` `Prefix Sum` |
+| 496 | [Zero Array Transformation II](./q496_zero_array_transformation_ii) | | `Array` `Prefix Sum` `Binary Search` |
+| 497 | [Move Pieces to Obtain a String](./q497_move_pieces_to_obtain_string) | `Partially Complete` | `Strings` |
+| 498 | [Identify the Largest Outlier in an Array](./q498_identify_largest_outlier_array) |
+| 499 | [Count Special Subsequences](./q499_count_special_subsequences) |
+| 500 | [Random Pick with Weight](./q500_random_pick_with_weight) | | `Random` `Binary Search` `Prefix Sum` |
+| 501 | [](./q501) |
+| 502 | [](./q502) |
+| 503 | [](./q503) |
+| 504 | [](./q504) |
+| 505 | [](./q505) |
+| 506 | [](./q506) |
+| 507 | [](./q507) |
+| 508 | [](./q508) |
+| 509 | [](./q509) |
+| 510 | [](./q510) |
+| 511 | [](./q511) |
+| 512 | [](./q512) |
+| 513 | [](./q513) |
+| 514 | [](./q514) |
+| 515 | [](./q515) |
+| 516 | [](./q516) |
+| 517 | [](./q517) |
+| 518 | [](./q518) |
+| 519 | [](./q519) |
+| 520 | [](./q520) |
+| 521 | [](./q521) |
+| 522 | [](./q522) |
+| 523 | [](./q523) |
+| 524 | [](./q524) |
+| 525 | [](./q525) |
+| 526 | [](./q526) |
+| 527 | [](./q527) |
+| 528 | [](./q528) |
+| 529 | [](./q529) |
+| 530 | [](./q530) |
+| 531 | [](./q531) |
+| 532 | [](./q532) |
+| 533 | [](./q533) |
+| 534 | [](./q534) |
+| 535 | [](./q535) |
+| 536 | [](./q536) |
+| 537 | [](./q537) |
+| 538 | [](./q538) |
+| 539 | [](./q539) |
+| 540 | [](./q540) |
+| 541 | [](./q541) |
+| 542 | [](./q542) |
+| 543 | [](./q543) |
+| 544 | [](./q544) |
+| 545 | [](./q545) |
+| 546 | [](./q546) |
+| 547 | [](./q547) |
+| 548 | [](./q548) |
+| 549 | [](./q549) |
+| 550 | [](./q550) |
