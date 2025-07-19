@@ -489,7 +489,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 483 | [Count Square Submatrices with All Ones](./q483_count_square_submatrices_all_ones) | | `Matrix` |
 | 484 | [Palindrome Partitioning II](./q484_palindrome_partitioning_ii) | `Strings` |
 | 485 | [Interleaving String](./q485_interleaving_string) | | `Dynamic Programming` `Strings` |
-| 486 | [Queue Reconstruction by Height](./q486_queue_reconstruction_by_height) | | `Needs another look` | |
+| 486 | [Queue Reconstruction by Height](./q486_queue_reconstruction_by_height) | `Needs another look` | |
 | 487 | [Next Smallest Palindrome](./q487_next_smallest_palindrome) | | `Pattern Recognition` |
 | 488 | [Split Array Largest Sum](./q488_split_array_largest_sum) | | `Binary Search` |
 | 489 | [N/3 Repeat Number](./q489_n_by_3_repeat_number) | | `Counting` `Voting` `Array` |
@@ -504,19 +504,19 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 498 | [Identify the Largest Outlier in an Array](./q498_identify_largest_outlier_array) |
 | 499 | [Count Special Subsequences](./q499_count_special_subsequences) |
 | 500 | [Random Pick with Weight](./q500_random_pick_with_weight) | | `Random` `Binary Search` `Prefix Sum` |
-| 501 | [](./q501) |
-| 502 | [](./q502) |
-| 503 | [](./q503) |
-| 504 | [](./q504) |
-| 505 | [](./q505) |
-| 506 | [](./q506) |
-| 507 | [](./q507) |
-| 508 | [](./q508) |
-| 509 | [](./q509) |
-| 510 | [](./q510) |
-| 511 | [](./q511) |
-| 512 | [](./q512) |
-| 513 | [](./q513) |
+| 501 | [Find Eventual Safe States](./q501_find_eventual_safe_states) | | `Graph` `Topological Sort` |
+| 502 | [Number of Operations to Make Network Connected](./q502_number_of_operations_make_network_connected) | | `Graph` `Union Find` |
+| 503 | [Kth Smallest Element in a Sorted Matrix](./q503_kth_smallest_element_sorted_matrix) | `Different Perspective` `Partially Complete` | `Binary Search` `Matrix` |
+| 504 | [Swim in Rising Water](./q504_swim_in_rising_water) | | `Graph` `Heap` |
+| 505 | [Detonate the Maximum Bombs](./q505_detonate_maximum_bombs) | | `Graph` |
+| 506 | [Network Delay Time](./q506_network_delay_time) | | `Graph` `Bellman Ford` |
+| 507 | [Find the Safest Path in a Grid](./q507_find_the_safest_path_grid) | | `Graph` `Binary Search` `Matrix` `Dijkstra` |
+| 508 | [Find Closest Node to Given Two Nodes](./q508_find_closest_node_to_two_nodes) |
+| 509 | [Maximize the Number of Target Nodes After Connecting Trees I](./q509_maximize_target_node_count_connecting_trees_i) |
+| 510 | [Lexicographically Smallest Equivalent String](./q510_lexicographically_smallest_equivalent_string) | | `Union Find` |
+| 511 | [Find the Original Typed String II](./q511_find_original_typed_string_ii) | | `Dynamic Programming` `Strings` |
+| 512 | [Critical Connections in a Network](./q512_critical_connections_network) | | `Graph` `Tarjan's Algorithm` `DFS` |
+| 513 | [Snapshot Array](./q513_snapshot_array) | | `Array`, `Binary Search` `Design` |
 | 514 | [](./q514) |
 | 515 | [](./q515) |
 | 516 | [](./q516) |
