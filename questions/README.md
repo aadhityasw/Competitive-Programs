@@ -122,7 +122,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 116 | [Intersection Point in Y Shapped Linked Lists](./q116_linked_list_intersection) | | `Intersection Point of two Linked Lists` |
 | 117 | [Detect Loop in linked list](./q117_linked_list_loop) | | `Floyd's Loop Detection` |
 | 118 | [Remove loop in Linked List](./q118_linked_list_loop_removal) | | `Linked-list Loop Detection` |
-| 119 | [Nth node from end of linked list](./q119_nth_node_from_end) |
+| 119 | [Nth node from end of linked list](./q119_nth_node_from_end) | | `Linked List` |
 | 120 | [Flattening a Linked List ](./q120_flatten_linked_list) |
 | 121 | [Merge two sorted linked lists](./q121_merge_sorted_linked_list) |
 | 122 | [Add two numbers represented by linked lists](./q122_linked_list_number_addition) |
@@ -412,7 +412,7 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 406 | [Maximal Square](./q406_maximal_square) | | `matrix` |
 | 407 | [Recover a Tree From Preorder Traversal](./q407_string_parse_preorder_traversal_tree_recovery) |
 | 408 | [Design a Number Container System](./q408_design_number_container_system_constant_time_search) |
-| 409 | [Maximum Sum Subarray with negative numbers](./q409_maximum_sum_subarray_with_negative_numbers) | `Incomplete` | `Kandane` |
+| 409 | [Maximum Sum Subarray with negative numbers](./q409_maximum_sum_subarray_with_negative_numbers) | | `Kandane` `Divide and Conquer` |
 | 410 | [Number of Islands in 4 Direction](./q410_number_of_islands_4_directional) |
 | 411 | [Clone Undirected Graph](./q411_clone_undirected_graph) |
 | 412 | [Pacific Atlantic Water Flow](./q412_pacific_atlantic_water_flow) | | `matrix` |
@@ -517,16 +517,16 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 511 | [Find the Original Typed String II](./q511_find_original_typed_string_ii) | | `Dynamic Programming` `Strings` |
 | 512 | [Critical Connections in a Network](./q512_critical_connections_network) | | `Graph` `Tarjan's Algorithm` `DFS` |
 | 513 | [Snapshot Array](./q513_snapshot_array) | | `Array`, `Binary Search` `Design` |
-| 514 | [](./q514) |
-| 515 | [](./q515) |
-| 516 | [](./q516) |
-| 517 | [](./q517) |
-| 518 | [](./q518) |
-| 519 | [](./q519) |
-| 520 | [](./q520) |
-| 521 | [](./q521) |
-| 522 | [](./q522) |
-| 523 | [](./q523) |
+| 514 | [Maximize the Number of Target Nodes After Connecting Trees II](./q514_maximize_target_node_count_connecting_trees_ii) | | `Graph` |
+| 515 | [Min Stack](./q515_min_stack) |
+| 516 | [Binary Search Tree Iterator](./q516_binary_search_tree_iterator) |
+| 517 | [Peeking Iterator](./q517_peeking_iterator) |
+| 518 | [Range Sum Query 2D - Immutable](./q518_range_query_2d_immutable) |
+| 519 | [Range Sum Query - Mutable](./q519_range_sum_query_mutable) | | `Segment Tree` |
+| 520 | [Word Pattern](./q520_word_pattern) |
+| 521 | [Shuffle an Array](./q521_shuffle_array) | | `Randomness` |
+| 522 | [Remove Nth Node From End of List](./q522_remove_nth_node_from_end) | | `Linked List` |
+| 523 | [Maximum Level Sum of a Binary Tree](./q523_maximum_level_sum_binary_tree) | | `Binary Tree` |
 | 524 | [](./q524) |
 | 525 | [](./q525) |
 | 526 | [](./q526) |
