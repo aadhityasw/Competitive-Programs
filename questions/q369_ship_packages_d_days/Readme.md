@@ -4,6 +4,9 @@ https://practice.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-d
 
 
 
+Leetcode 1011 : https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
+
+
 Given an array arr[] of N weights. Find the least weight capacity of a boat to ship all weights within D days.
 Note: You have to load weights on the ship in the given order.
 

@@ -527,13 +527,13 @@ Note : The `Sample_Question_title` can be in the format => \[<Question_name>](./
 | 521 | [Shuffle an Array](./q521_shuffle_array) | | `Randomness` |
 | 522 | [Remove Nth Node From End of List](./q522_remove_nth_node_from_end) | | `Linked List` |
 | 523 | [Maximum Level Sum of a Binary Tree](./q523_maximum_level_sum_binary_tree) | | `Binary Tree` |
-| 524 | [](./q524) |
-| 525 | [](./q525) |
-| 526 | [](./q526) |
-| 527 | [](./q527) |
-| 528 | [](./q528) |
-| 529 | [](./q529) |
-| 530 | [](./q530) |
+| 524 | [Longest Repeating Character Replacement](./q524_longest_repeating_character_replacement) | | `Sliding Window` |
+| 525 | [Binary Subarrays With Sum](./q525_binary_subarrays_with_sum) | `New Perspective` | `Prefix Sum` `Sliding Window` `At-most trick` |
+| 526 | [Count Number of Nice Subarrays](./q526_count_number_of_nice_subarrays) | | `Sliding Window` `At-most trick` |
+| 527 | [Minimum Window Substring](./q527_minimum_window_substring) | | `Sliding Window` |
+| 528 | [Search Insert Position in Arrays](./q528_search_insert_position_array) |
+| 529 | [Koko Eating Bananas](./q529_koko_eating_bananas) | | `Binary Search` |
+| 530 | [Daily Temperatures](./q530_daily_temperatures) | | `Monotonic Stack` |
 | 531 | [](./q531) |
 | 532 | [](./q532) |
 | 533 | [](./q533) |
